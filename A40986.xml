@@ -1,0 +1,871 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The content of a wayfaring man ; and The accompt of a ministers removall : two sermons, the one preached at the morning lecture in the citie of London, the other more enlarged in another congregation / by J.F. ...</title>
+            <author>Fathers, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40986</idno>
+            <idno type="STC">Wing F552</idno>
+            <idno type="STC">ESTC R32801</idno>
+            <idno type="EEBO-CITATION">12756028</idno>
+            <idno type="OCLC">ocm 12756028</idno>
+            <idno type="VID">93431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1526:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The content of a wayfaring man ; and The accompt of a ministers removall : two sermons, the one preached at the morning lecture in the citie of London, the other more enlarged in another congregation / by J.F. ...</title>
+                  <author>Fathers, John.</author>
+               </titleStmt>
+               <extent>[2], 75 [i.e. 47] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Fathers by Wing and NUC pre-1956 imprints.</note>
+                  <note>Running title: The content of a wayfaring man, or Jeremy's cottage in the wilderness.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:93431:1"/>
+                  <pb facs="tcp:93431:1" rendition="simple:additions"/>
+                  <p>THE CONTENT OF A WAYFARING MAN: <hi>AND</hi> THE ACCOMPT OF A MINISTERS REMOVALL.</p>
+                  <p>
+                     <hi>TWO SERMONS.</hi>
+                  </p>
+                  <p>The one preached at the Morning Lecture in the Citie of <hi>London;</hi> the other more enlarged in another Congregation.</p>
+                  <p>BY <hi>J. F.</hi> M. A.</p>
+                  <q>
+                     <p>Nihil tibi aequè proficiet ad temperantiam omnium rerum, q.à.n frequens cogitatio brevis aevi &amp; hujur incerti.</p>
+                     <bibl>
+                        <hi>Hieron. ad H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>liod.</hi>
+                     </bibl>
+                  </q>
+                  <q>
+                     <p>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</p>
+                     <bibl>Chryſoſt. in 1 Tim. Hom. 17.</bibl>
+                  </q>
+                  <p>
+                     <hi>LONDON;</hi> Printed by <hi>Matthew Simmons.</hi> 1648.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:93431:2"/>
+                  <pb n="29" facs="tcp:93431:2"/>
+                  <head>TO THE RIGHT HONOURABLE, <hi>JOHN</hi> LORD <hi>ROBERTS,</hi> Baron of TRURO, All increaſe of laſting Honour and Felicity.</head>
+                  <opener>
+                     <salute>Right Honorable,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>His haſty undreſt Birth, being forced out of doores by the importunity of divers godly Miniſters and Friends, begges a covering from your Honours Name, whoſe merits are ſo well known unto the world in thoſe publick imployments to which you have been ingaged, as, if I ſhould attempt to adde any luſtre, I ſhould but light a Candle to the Sunne, and ſhadow that beauty which an abler penſill hath lately drawn.<note place="margin">Maſter <hi>Samuel Bolton</hi> in his Epiſt. Dedic. to his <hi>Ar<g ref="char:EOLhyphen"/>raignment of Errour.</hi>
+                     </note> I had not adventured upon the Acumen of your wiſdome and parts, for patronage of this in<g ref="char:EOLhyphen"/>firm labour, had not your accuſtomed candor prompted me with afavourable excuſe of this honeſt ambitiion, partly from that wel-known love your Honour bears to learning &amp; piety, partly from the co<g ref="char:cmbAbbrStroke">̄</g>ſtant experience of your abundant favours, of which I deſire in this ſmal monument to perpetuate the acknowledge<g ref="char:EOLhyphen"/>ments, and partly from the ſubject of the firſt enſuing diſcourſe, which may be not unſuitable to your affection of a co<g ref="char:cmbAbbrStroke">̄</g>templative retirednes and a contentive ſweetnes in your ſelf-injoyments:
+<pb facs="tcp:93431:3"/>your Honour not aſpiring great things for your ſelfe in <hi>Ja<g ref="char:EOLhyphen"/>cobs</hi> day of ſmall things, moſt nobly diſdaining to make your Morſels fat out of the publick wants, although your loſſes may be as great as ſome others.</p>
+                  <p>Heroick Sir, I truſt neither of theſe Sermons will be un<g ref="char:EOLhyphen"/>ſavoury to your goodneſſe, though both unworthy your lear<g ref="char:EOLhyphen"/>ning.</p>
+                  <p>The firſt Sermon preſents you the felicity of an humble content and peaceable retiredneſſe, a Diſcourſe not unſeaſona<g ref="char:EOLhyphen"/>ble in times ſo full of trouble and uncertaintie as ours are.</p>
+                  <p>The ſecond diſcovers the lawfull ends, and unkind provo<g ref="char:EOLhyphen"/>cations of a Miniſters removall, yeelding both an Apologie for the Miniſter, and an Alarm to the people whatſoever they are. Hope, which is the Mother of Boldneſſe, and Miſtreſſe of En<g ref="char:EOLhyphen"/>deavour, hath brought them unto your hands, to do ſome ſervice to the Church of God, and to your Honour, wherein if they ſhall <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſo happy, it will both Comfort and Crowne him who is ſervant to both</p>
+                  <closer>
+                     <signed>In all Goſpel duties intirely obliged, JOHN FATHERS.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="sermon">
+                  <pb n="31" facs="tcp:93431:3"/>
+                  <head>THE CONTENT OF A WAY<g ref="char:EOLhyphen"/>FARING MAN: OR, <hi>Jeremies Cottage in the Wilderneſſe.</hi>
+                  </head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>JEREM. 9.2.</hi>
+                        </bibl>
+                        <p>O that I had in the Wilderneſſe a lodging place of way<g ref="char:EOLhyphen"/>faring men, that I might leave my people and goe from them.</p>
+                        <p>
+                           <hi>Or thus,</hi> Oh that I had the Cottage of a Wayfaring man in the Wilderneſſe.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">W</seg>E have here <hi>Jeremies Content,</hi> and <hi>Jeremies Account:</hi> His <hi>Content</hi> was moderate, He aſpired no great things for himſelfe, nor Biſhops Lands, nor Deanes Houſes. A <hi>Cottage</hi> was his <hi>Content,</hi> and his <hi>Content</hi> was ſutable to his <hi>Condition.</hi>
+                  </p>
+                  <p>His <hi>Condition</hi> was a <hi>Wayfaring-man,</hi>
+                     <note place="margin">Non lequitur de diverſoriis quae trant in pagis &amp; urbi<g ref="char:EOLhyphen"/>bus, ſed de di<g ref="char:EOLhyphen"/>verſoriis de<g ref="char:EOLhyphen"/>ſerti quemad<g ref="char:EOLhyphen"/>modum videhimus ubi per ſylvas longum eſt &amp; moleſtum iter, tuguria quaedam componiſi fortè depre<g ref="char:EOLhyphen"/>henſus fuerit viater tenebris noctis ut poſſit latere ſub tecto, ſcil. nè ſub die cubet. <hi>Calv. in Loc.</hi>
+                     </note> and the <hi>Cottage of a Wayfaring-man</hi> was his <hi>Content,</hi> onely a hole to hide his head in a ſtorm, and to afford him a nights lodging in his <hi>Way:</hi> And that in no ſtately <hi>Citie,</hi> where perhaps a ſmall <hi>Cottage</hi> may be of more value then a large <hi>Farm</hi> in the Countrey.</p>
+                  <pb n="32" facs="tcp:93431:4"/>
+                  <p>But <hi>the Cottage of a wayfaring-man in the wilderneſſe.</hi> And <hi>Wilder<g ref="char:EOLhyphen"/>neſſe,</hi> whether you take it <hi>literally,</hi> for a place <hi>ſma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y</hi> inhabited; as that wilderneſſe wherein the Prieſts had 6 Cities; or for a place <hi>not at all</hi> inhabited, as that to which <hi>Jeremies</hi> wild Aſſe was uſed; or <hi>figura<g ref="char:EOLhyphen"/>tively</hi> for a rude and untaught people, as <hi>Wilderneſſe</hi> doth often ſignifie in holy Scriptures. Either way it ſuits very well with <hi>Jeremies Con<g ref="char:EOLhyphen"/>tent,</hi> who deſired to enjoy himſelfe in a peaceable retiredneſſe, which he could not in a tumultuous Citie; and probably as he had bet<g ref="char:EOLhyphen"/>ter hopes of the ſafety of his perſon amongſt wilde beaſts, then wic<g ref="char:EOLhyphen"/>ked men: ſo of the ſucceſſe of his Miniſtery amongſt a rude and igno<g ref="char:EOLhyphen"/>rant people in the <hi>wilderneſſe,</hi> then amongſt thoſe whoſe knowledge did puffe them up in <hi>Jeruſalem.</hi> For ſo we find <hi>Jeremies Account,</hi> why he deſired <hi>the Cottage of a wayfaring-man in the wilderneſſe, That I might leave my people, and goe from them.</hi>
+                  </p>
+                  <p>
+                     <hi>My people:</hi> His they were though they were ſo bad. <hi>Jeremy</hi> you will yeeld, was an able, painfull, faithfull, couragious Miniſter, who fea<g ref="char:EOLhyphen"/>red not the frownes of Kings nor Princes, Fetters nor Dungeon, for the faithfull diſcharge of his Miniſtery; and yet ſo good as he was, he was unhappily matcht with a bad people, and ſo bad they were, as that he did deſire to leave them, and yet not leave them without <hi>leave</hi> from God, or <hi>love</hi> to them.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Not without <hi>leave</hi> from God; for theſe words we muſt not con<g ref="char:EOLhyphen"/>ceive to fall at randum from <hi>Jeremy,</hi> as if he were hurried away from his people by paſſion, or diſcontent, but as he ſayes, <hi>Chap.</hi> 11. <hi>v.</hi> 20. <hi>
+                        <g ref="char:V">Ʋ</g>nto thee, O Lord, have I revealed my cauſe.</hi> And <hi>Chap.</hi> 20. 12. <hi>Vnto thee, O Lord, have I opened my cauſe.</hi> He ſeeks to God for a place of re<g ref="char:EOLhyphen"/>move, and would remove as the <hi>Iſraelites</hi> in the wilderneſſe <hi>at Gods command.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Not without <hi>love</hi> to them; for though he did <hi>leave</hi> them, yet hee would not <hi>leave</hi> to pray for them, &amp; to pray in teares, and teares in a<g ref="char:EOLhyphen"/>bundance; and that abundance not ſufficient to content his love, but that he wiſhes for more. <hi>O that my head were full of waters, and mine eyes a fountain of teares, that I might weep day and night for the captivity of the daughter of my people,</hi> verſe 1. of this Chapter. For ſo you muſt joyn that verſe to this, and you have then and there a double account of <hi>Jeremies</hi> option for <hi>a Cottage in the wilderneſſe.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Seeing his preaching could doe no good in <hi>Jeruſalem,</hi> he was deſi<g ref="char:EOLhyphen"/>rous to retire himſelfe to prayer, and to pray in teares, as <hi>Jeremy</hi> did, retiredneſſe is beſt.</p>
+                  <pb n="33" facs="tcp:93431:4"/>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Foreſeeing their Captivity, he was unwilling to ſee it, and there<g ref="char:EOLhyphen"/>fore deſired to enjoy himſelf in a peaceable retiredneſſe, rather then to live in <hi>Jeruſalem</hi> with fire over his head. <hi>O that I had the Cottage of a Wayfaring man in the wilderneſſe, that I might leave my people and go from them.</hi>
+                  </p>
+                  <p>I have now given you the Analyſis of the Text, and you ſee there is much in it, and I have little time, I ſhall endeavour as well as I can, to contract much into little, and ſhall confine my ſelfe to the two gene<g ref="char:EOLhyphen"/>rall heads of the Text: <hi>Jeremiahs Content,</hi> and <hi>Jeremiahs Account.</hi>
+                  </p>
+                  <p>From the firſt, I obſerve; <hi>How moderate gracious deſires ſhould be in theſe earthly things.</hi>
+                  </p>
+                  <p>From the ſecond; <hi>How good Miniſters may upon warrantable grounds deſire to remove from an unkind people.</hi>
+                  </p>
+                  <p>And firſt, I ſhall apply my ſelfe to the firſt, <hi>Jeremies Content: O that I had the Cottage of a wayfaring-man in the wilderneſſe, that I might leave my people, and goe from them.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Generall Doctrine. </seg>1</label> 
+                     <hi>Gracious deſires ſhould be moderate in theſe earthly things.</hi> I doe not ſay, The deſires of grace ſhould be moderate. For that is our great corruption, that in thoſe things wherein unſatiableneſſe of deſire is onely lawfull, our affections are too remiſſe; as in ſpirituall and hea<g ref="char:EOLhyphen"/>venly things; and too intenſe in thoſe things wherein unſatiableneſſe of deſire is moſt unlawfull: as in temporary and earthly things. And therefore I ſay, If our deſires are gracious, they are and ſhould be mo<g ref="char:EOLhyphen"/>derate in earthly things.</p>
+                  <p>Will you pleaſe to look upon your example in the Text, <hi>Jeremiah</hi> was one of noble birth, of great parts, of eminent gifts, of admirable courage, of unparalleld fidelity in his Miniſtery: and yet neither his birth, nor place, nor parts nor gifts, did make him ambitious: A cot<g ref="char:EOLhyphen"/>tage did content him who might deſerve a palace.</p>
+                  <p>Will you take another inſtance to this? It is that of <hi>Agur,</hi>
+                     <note place="margin">Prov. 30.8.</note> 
+                     <hi>Give me not riches leſt I be too full, but feed me with food convenient for me. Give me not riches.</hi>
+                  </p>
+                  <p>
+                     <hi>Quis niſi mentis inops?</hi> You will ſcarce think him a reaſonable man that ſhould deſire riches not to be given unto him? But ſtay a while, and heare his reaſon: <hi>Leſt I bee too full.</hi> He would not have his food to become his diſeaſe. You well know the danger of ſurfeits, you know it, but feele it not whileſt the ſweet morſell is going down; but he that feares it, <hi>puts the knife unto his throat, and moderates his appe<g ref="char:EOLhyphen"/>tite. Feed me with food convenient for me.</hi> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>Victum, Food</hi> he doth deſire:
+<pb n="34" facs="tcp:93431:5"/>So much of theſe outward things as may afford him a livelihood. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>Dimenſum, Food convenient,</hi> a portion ſutable and competent to his place and calling. This is lawfull, and this is moderate.</p>
+                  <p>To theſe two inſtances will you pleaſe to take one Rule from him that is our <hi>Rule.</hi>
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ohn 14.6. Matth. 6.11.</note> He that bleſſeth our prayers, taught us to pray for our <hi>daily bread.</hi> 
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. For <hi>Bread, Panem indigentiae,</hi> ſo much as may ſupply our wants in our way: A <hi>Jacobs</hi> ſcrip to virtuall us over Jordan. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>Our daily Bread, ſine ſolicitudine,</hi> without anxious thought for to morrow: <hi>for to morrow</hi> [ſaith the ſame divine O<g ref="char:EOLhyphen"/>racle] <hi>will care for it ſelfe: Sufficient unto the day is the evill thereof.</hi>
+                  </p>
+                  <p>Nor did our bleſſed Lord and Saviour ſet this <hi>Boundary</hi> unto others, which he kept not himſelf: For he who had the fulneſſe of Heaven and earth for his foot ſtool, was yet content with his daily <hi>Admini<g ref="char:EOLhyphen"/>ſtrations.</hi> You have now the proofe of the Doctrine:<note place="margin">Matth. 8.15. Mark 15.41.</note> That <hi>gra<g ref="char:EOLhyphen"/>cious deſires are and ſhould be moderate.</hi> I might give you many Rea<g ref="char:EOLhyphen"/>ſons for further confirmation of it; but time confines me to thoſe on<g ref="char:EOLhyphen"/>ly which offer themſelves in the Text.</p>
+                  <p>
+                     <hi>The firſt is this:</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſon </seg>1</label> That our <hi>Content</hi> ſhould be ſuitable to our <hi>Condition. Wayfaring-men</hi> wee are by our <hi>Mortall Condition,</hi> and our <hi>Spirituall Content</hi> ſhould be the <hi>Cottage of a wayfaring-man,</hi> onely that which may ſuf<g ref="char:EOLhyphen"/>fice us in our <hi>way.</hi>
+                  </p>
+                  <p>The life of Man is not unfitly compared to a <hi>way</hi> wherein perſons of divers conditions travell,<note place="margin">Matth. 5.22. Pſalm 49.13. Pſal. 24.6.</note> and this is the brood of Travellers, we all meet in this one condition to be <hi>wayfaring-men.</hi> There are ma<g ref="char:EOLhyphen"/>ny conditions of the <hi>wayfaring-man</hi> which ſuit with ours, ſhould I travell them all, I ſhould ſcarce part with the <hi>wayfaring-man,</hi> before this travell were ended. I will onely reſtrain my ſelfe unto two. 1. What we are in reſpect of our <hi>mortall Condition? Wayfaring-men.</hi> 2. What we ought to be in reſpect of our <hi>ſpirituall deſires.</hi> Content with our cottage in this wilderneſſe of ſin.</p>
+                  <p>This World is a through-fare either to Heaven or to Hell, and whether <hi>Judas</hi> goeth to his place, or <hi>Peter</hi> to his, we all are as a ſhip under ſaile, paſſing ſwiftly to our haven, and every moment of time doth haſten us to our laſt home.</p>
+                  <p>The travailes of men indeed are to divers ends: Some to be great, others to be rich; ſome for knowledge, others for wealth, [few for grace.] And whileſt for the increaſe of theſe, wee deſire encreaſe of yeares, what doe wee deſire, but that [which unto the carnall man is
+<pb n="35" facs="tcp:93431:5"/>ſo undeſired] our haſtning to our journeys end: the way in which wee all meet, <hi>the way of all fleſh.</hi>
+                  </p>
+                  <p>It is not without a myſtery, and this of our condition, that the worlds firſt entertainment of our Saviour was in an <hi>Inne,</hi>
+                     <note place="margin">Luke 2.7.</note> and his Mo<g ref="char:EOLhyphen"/>ther fell in <hi>travell</hi> with him, whileſt ſhee was in <hi>travell.</hi> How much doe they miſtake their condition, that take their Inne for their home, and make their way their reſt.</p>
+                  <p>I cannot blame worldlings to <hi>build <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> tabernacles here,</hi> and to wiſh they might ever dwell in them, being with <hi>Pharaohs Baker</hi> loath to go out of their earthly priſons, becauſe they feare a worſe condition out of them. But you my Beloved, that have good hopes of Heaven, ac<g ref="char:EOLhyphen"/>count your ſelves <hi>ſtrangers and pilgrimes</hi> here, and let your <hi>affections,</hi> your <hi>converſations be in Heaven,</hi> whileſt yet your commoration is in your removing tabernacles.</p>
+                  <p>Should a <hi>wayfaring man</hi> be ſo taken up with the delights and pro<g ref="char:EOLhyphen"/>fits of a forreigne Countrey, as to diſlike the Lawes and Government of his own, and ſo to diſlike it, as to take up armes againſt it: What doth he but make his travaile his exile, &amp; may perhaps come ſhort of a pardon, when he deſires to returne home againe. Heaven is the Countrey, from whence our immortall ſoules did all ſet forth. Every ſinne is a warre againſt it, which if in diſdaine of our home wee doe maintaine, wee are not travailers, but traytors and fugitives, and may be to ſeek of mercy, when our travaile is ended.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> My Brethren, minde your Condition, that's the firſt.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, Let your content be ſuitable to your condition.</p>
+                  <p>When the <hi>Iſraelites</hi> travailed through the <hi>Moabites</hi> Countrey,<note place="margin">Deut. 2.6.</note> they would meddle with nothing, but <hi>neceſſaries</hi> in their <hi>way;</hi> and when they were journeying into the Land of Promiſe,<note place="margin">Exod. 11.2.</note> they left their <hi>brick and clay</hi> to the <hi>Aegyptians,</hi> and <hi>borrowed</hi> of them onely <hi>Jewels of gold and Jewels of ſilver;</hi> ſuch things as were portable in their way to the holy Land.</p>
+                  <p>You that have a birth above the world, yee ſonnes and daughters of the Higheſt, fowle not your fingers with this world. Let the <hi>Aegyp<g ref="char:EOLhyphen"/>tians</hi> take their <hi>brick and clay</hi> unto themſelves, and <hi>borrow</hi> you onely of this earthly Mammon ſo much as may be portable in your way to Heaven; or, by an holy exchange into heavenly <hi>treaſures,</hi>
+                     <note place="margin">Matth. 6.20. Luk. 16.9.</note> may be tran<g ref="char:EOLhyphen"/>ſported thither before you.</p>
+                  <p>Our forefathers that lived ſix and eight hundred yeares, were con<g ref="char:EOLhyphen"/>tent with removing tents, and wee whoſe lives are but of three dayes
+<pb n="36" facs="tcp:93431:6"/>to theirs, muſt provide houſes ſo great, and inheritances ſo large, as if wee did forget that our <hi>condition</hi> is <hi>mortall,</hi> or that it is our duty, to ſuite our <hi>content</hi> unto our <hi>condition.</hi> Let worldlings beare with a chid<g ref="char:EOLhyphen"/>ing from the Poet; <hi>O curvae in terras animae &amp; coeleſtium inanes:</hi> O yee crooked ſoules, bowed down unto the earth, and empty of all that is heavenly: why are yee ſo <hi>ſerious</hi> in <hi>trifles,</hi> and do ſo <hi>trifle</hi> in that which is moſt <hi>ſerious.</hi>
+                  </p>
+                  <p>Fond Earthworme, give me leave to reaſon with thee a little; thou haſt provided for thy ſelfe a great and ſtately manſion, with ponds, and orchards, and vineyards, and all things that may delight and content thy <hi>fleſh,</hi> but what haſt thou laid up for thy precious ſoule, in thoſe <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,<note place="margin">2 Cor. 5.1.</note> 
+                     <hi>buildings made without hands, eternall in the heavens.</hi> It will not be long, ere thy ſtately manſion will diſ<g ref="char:EOLhyphen"/>daine to lodge thee. Thy delicate wife, thy tender children, and thy deareſt friends refuſe to keepe thee, yea be glad to bury thee out of their ſight: as <hi>Abram</hi> his beloved <hi>Sarah;</hi> and then think what will be<g ref="char:EOLhyphen"/>come of thy poore and naked ſoule. Are thy comforts no ſurer then his which ſaid, <hi>Quò iturus ſum neſcio?</hi> Whether I am going I know not. Haſt thou taken ſo much care for a life ſo tranſitory, for which a <hi>cottage</hi> might have ſufficed, and left an eternall felicity upon a per<g ref="char:EOLhyphen"/>advanture? I tell thee, and be not angry with me, if I tell thee the truth; the baſeſt vermin that crawleth upon the earth, is in a far bet<g ref="char:EOLhyphen"/>ter condition then thou art.</p>
+                  <p>O that men heaping up earthly riches, according to the utmoſt meaſure of their will and power, would yet learne to meaſure their will and power, according to the frailty of their mortall condition; and whileſt thy gaze ſo much on the <hi>golden head</hi> of their Babylonian Idoll, in which they glory, they could yet looke down upon the <hi>ſeet of clay</hi> wherewith they travell.</p>
+                  <p>When I heare my fellow-travailer tell me of the danger of theeves and plunderers in my way; I begin to thinke of ſecuring the money I have about me, and if I were to ſet forth, I would carry no more with mee then is needfull in my way. I need not Interpret, <hi>Breve iter mag<g ref="char:EOLhyphen"/>no viatico non inſtruitur ſed oneratur;</hi> Large proviſions for a ſhort jour<g ref="char:EOLhyphen"/>ney are not an help but a burthen unto it, and if wee cannot unloade our ſelves, it is not from the impoſſibility of the duty, but from the perverſneſſe of our affections, and wretched creatures that wee are, who for a temporary ſecurity, can doe that which for an eternall feli<g ref="char:EOLhyphen"/>citie wee reject as impoſſible to be don.</p>
+                  <pb n="37" facs="tcp:93431:6"/>
+                  <p>I have now don with the firſt reaſon, why gracious deſires in theſe earthly things ſhould be moderate; Becauſe our <hi>ſpirituall content</hi> ſhould be ſuted to our <hi>mortall condition.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſon </seg>2</label> The ſecond now that offers it ſelfe in the Text is this; Becauſe the peaceable retiredneſſe of a mean and low eſtate is much more deſirea<g ref="char:EOLhyphen"/>ble, then the trouble and danger of an high and great; and for this I conceive, was <hi>Jeremies</hi> deſire to retire into a <hi>cottage in the wilderneſſe,</hi> that his ſoule might be free from the ſtrifes and vexations that were in <hi>Jeruſalem.</hi>
+                     <note place="margin">Luk. 3.7. to the 18.</note> And for this probably <hi>John Baptiſt</hi> might retire to exer<g ref="char:EOLhyphen"/>ciſe his Miniſtry in the Wilderneſſe rather then in the Citie, becauſe he ſaw ſo much diſquiet and ungodlineſſe in it, as appeares by the ſharp reproofes of his Sermon to thoſe that came out of it. And <hi>Moſes</hi> doubtleſſe ſaw ſome rich content in a peaceable retiredneſſe, that he was ſo unwilling to leave his private enjoyment for a publick imploy<g ref="char:EOLhyphen"/>ment, his following his father in lawes ſheep in <hi>Midian,</hi> to be the Lea<g ref="char:EOLhyphen"/>der of the people of <hi>Iſrael,</hi> although the Lord anſwered all his foure doubts, and took off all his excuſes in the third of <hi>Exodus.</hi>
+                  </p>
+                  <p>
+                     <hi>David</hi> likewiſe ſaw very much in this, who was ſo willing to have changed his <hi>Throne in Iſrael,</hi> for a <hi>porters office in the Lords houſe;</hi>
+                     <note place="margin">Pſal. 84.10.</note> and reckoned <hi>one day</hi> there ſpent, to be better unto him, then <hi>a thouſand in the tents of ungodlineſſe.</hi> For his experience had taught him, that the <hi>tempter</hi> never gat ſo much advantage againſt him at <hi>his fathers ſheepfold,</hi> as in his <hi>pallace at Jeruſalem.</hi> Great eſtates and high Imploy<g ref="char:EOLhyphen"/>ments,<note place="margin">2 Sam. 11.2.</note> are but the bellows of pride and paſſion; if there be not a great meaſure of wiſdome and grace to keep the heart down.</p>
+                  <p>
+                     <hi>Solomon</hi> likewiſe was not unacquainted with the comfort and con<g ref="char:EOLhyphen"/>tent of a peaceable retiredneſſe,<note place="margin">Eccleſ. 2.8.11.</note> who had tyred himſelfe in ſearching out the <hi>vanity and vexation</hi> of high eſtates: <hi>Better</hi> (ſaith he) <hi>is a ſaellat of green hearbs where peace is, then a ſtalled oxe and contention therewith.</hi>
+                     <note place="margin">Prov. 15.17.</note>
+                  </p>
+                  <p>Surely, <hi>great eſtates</hi> carry with them <hi>great diſquiets,</hi> and not leſſe in <hi>mannaging,</hi> then in <hi>getting.</hi> How much better might a man enjoy <hi>him<g ref="char:EOLhyphen"/>ſelfe</hi> in a mean and low eſtate? And how much better is it for a man to enjoy <hi>himſelfe,</hi> then to enjoy an <hi>eſtate?</hi>
+                  </p>
+                  <p>He diſcovered a rich content in himſelfe, that boare for his diviſe a Torteis in his ſhell, with this Motto: <hi>Mecum habito, I dwell with my ſelfe:</hi> and he alſo, that gave auother word to it; <hi>
+                        <g ref="char:V">Ʋ</g>bicun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſum, meus ſum, Whereſoever</hi> I <hi>am, I am my ſelfe.</hi>
+                  </p>
+                  <p>
+                     <hi>Seneca</hi> that divine Philoſopher, that was very ſtudious in ſearching out beatitudes, diſcovered this amongſt others: <hi>Beatus est, qui id ſe
+<pb n="38" facs="tcp:93431:7"/>eſſe putat:</hi> he is happie that can finde his happineſſe within himſelfe, and Bias-like doth carry his treaſure and felicity with him. It is a poore and contemptible felicity, which one fit of an ague, ſtone, or gout, can deprive us of: and this is the top-excellency of all earthly comforts.</p>
+                  <p>It was an enigma no leſſe elegant then acute of <hi>Heraelytus,</hi> who com<g ref="char:EOLhyphen"/>pared earthly-minded-men (coveting ſo much to be rich and great) unto thoſe that digged in ſilver-mines, who by all their hard toyle and care, got <hi>Parvum in magno,</hi> a little ſilver-oare in a great deale of dirty droſſe: how much better is it to enjoy <hi>Magnum in parvo,</hi> a great and rich <hi>content</hi> in a mean and low <hi>eſtate.</hi> And as Coſmographers, who contract the whole world into a little Mappe, to enjoy all in a little; which he enjoyes, who in a little enjoyes God and himſelfe, whoſe eſtate doth not poſſeſſe him, but he his eſtate: and whileſt he is in the world, lives in Chriſt above it.</p>
+                  <p>The wiſe and holy God doth not unequally diſpence his provi<g ref="char:EOLhyphen"/>dences; Some have <hi>high</hi> places, and <hi>little comfort, great eſtates,</hi> and ſmall <hi>content</hi> in them: others enjoy a <hi>rich and great content</hi> in a <hi>meane eſtate.</hi> Some with thoſe <hi>Iſraelites</hi> fare daintily, and whileſt the <hi>fleſh is in their teeth,</hi> there is <hi>leanneſſe in their ſoules:</hi> Others with <hi>Daniel,</hi> doe <hi>eat their pulſe</hi> with <hi>quiet conſciences,</hi> and doe enjoy a richer content in God, and his Chriſt, then the whole creature can afford the worldling with<g ref="char:EOLhyphen"/>out them.</p>
+                  <p>It was an hot diſpute amongſt ancient Philoſophers, whether a pri<g ref="char:EOLhyphen"/>vate enjoyment, or publique imployment were more deſireable? How<g ref="char:EOLhyphen"/>ſoever <hi>Seneca's</hi> writings approved the publique, yet his deſires lead him unto the private: when being tyred with the temptations of <hi>Nero's</hi> Court, endeavoured if he might to have enjoyed himſelfe in a ſolitary retiredneſſe; And though he placed not happineſſe in <hi>Contemplation,</hi> as other Philoſophers did, yet in <hi>Tranquillity:</hi> which he rarely en<g ref="char:EOLhyphen"/>joys who aſpires greatneſs, as he well ſhewed that laid down a Crown for the burthen of it.</p>
+                  <p>Our Eccleſiaſticall Hiſtory reports of <hi>Albertus Magnus,</hi> that he was ſo affected with a peaceable retiredneſſe, as that he left his Biſhoprick of <hi>Ratisbone,</hi> to give himſelfe to his private ſtudies.</p>
+                  <p>I doe not undertake to determine the queſtion, becauſe to a <hi>wiſe</hi> man, ſaith the Philoſopher both eſtates may be comfortable, much more comfortable to him that is <hi>gracious,</hi> without all diſpute, good the more publique it is, the more good it is: and <hi>virtus in nobili plus
+<pb n="39" facs="tcp:93431:7"/>placet, quia plus claret,</hi> Vertue and grace the more eminent it is, the more beautifull it is, and beneficiall not onely in its imployment, but by its example: But, where grace and wiſdome is wanting to keep down luſt and pride, which are the uſuall pediſſequas of high im<g ref="char:EOLhyphen"/>ployments and great eſtates, there that lazie and unthrifty adage is made good: <hi>Bene vixit qui bene latuit:</hi> It had been ſome kinde of good to ſuch a man, that he had enjoyed leſſe opportunities of doing good, wherein he did evill. I preſume that many in theſe times doe wiſh with <hi>Jeremy,</hi> or the time may ſhortly come, (how ſoone they know not) that they might wiſh, they had lived in ſome obſcure cottage in the Wilderneſſe, rather then to have been acquainted with thoſe great temptations, in which their high places and imployments have en<g ref="char:EOLhyphen"/>ſnared them.</p>
+                  <p>It is reported of the Hedge-hogge, which in our vulgar reproach is the character of a covetous man, that he goes to a pile of apples and gathers up as many as he can upon his prickles, and when he comes to his hole, he goes in with his <hi>prickles,</hi> but leaves his <hi>apples</hi> behinde him. How many are there that have wallowed themſelves in the <hi>apples</hi> of their ſweet <hi>contentments,</hi> which they have purſued with many <hi>pricks</hi> and gripes of <hi>conſcience,</hi> who when they ſhall deſcend, as ſhortly they muſt, to their holes of darkneſſe, they muſt then leave all the ſweet <hi>apples</hi> of their falſe delights behinde them, and can carry nothing with them, but the ſtings and ſtripes of a wounded conſci<g ref="char:EOLhyphen"/>ence. Will you heare what they ſay that have gon before them, what hath pride profited us? or what hath the pomp of riches brought us? All thoſe things are paſſed away like a ſhadow, and as a poſte that paſſeth by—but wee are conſumed in our wickedneſſe.</p>
+                  <p>Is there now, that ſayes if I were not <hi>Alexander,</hi> I could wiſh my ſelfe <hi>Diogenes,</hi> if I were not called to a publique place, I could deſire a private retiredneſſe; ſurely, I could deſire it likewiſe in thy behalfe, if the Lord hath not given thee grace, to make thy place ſerviceable to him and to his Saints.</p>
+                  <p>I have now done with the Doctrinall part of this portion of the Text, to wit, <hi>Jeremies Content,</hi> and I ſhall give you a very ſhort ap<g ref="char:EOLhyphen"/>plication of it.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>1</label> And firſt, whither ſhall I look? Shall I look off from my ſelfe, or from any of you to carry home the reproof of this doctrine? Surely my brethren, there is ſcarce a mothers ſonne in this Congregation, that lies not under the juſt rebuke of this truth: I mean for our im<g ref="char:EOLhyphen"/>moderate
+<pb n="40" facs="tcp:93431:8"/>deſires of theſe earthly things.</p>
+                  <p>
+                     <hi>Eſaus hands</hi> we ſee every where hunting after the prey, <hi>&amp; quoquo<g ref="char:EOLhyphen"/>modo rem,</hi> all is good fiſh with the moſt, that comes to the net: but where doe we heare <hi>Jacobs voyce?</hi>
+                     <note place="margin">Gen. 33.11. Phil. 4.11.</note> 
+                     <hi>The Lord hath had mercy on me, and I have enough.</hi> Or that of <hi>Paul,</hi> a Chriſtian; <hi>I have learned in whatſo<g ref="char:EOLhyphen"/>ever eſtate I am, therewith to be content.</hi>
+                  </p>
+                  <p>
+                     <hi>Paul</hi> a Phariſee had never learned this leſſon,<note place="margin">Acts 9.4. com<g ref="char:EOLhyphen"/>pared with Gal. 1.6.</note> before he came to Chriſt, whoſe ambition hurried him to ſerve the luſts of the Coun<g ref="char:EOLhyphen"/>cell at Jeruſalem, in making havock of the Saints at Damaſcus. But when the heavenly viſion had once ſtruck downe his high thoughts, which lay with his body on the ground before the Lord Jeſus; then, and not till then,<note place="margin">Phil. 3.8.</note> had he learned all to be loſſe unto him, and Chriſt onely his gain.</p>
+                  <p>Chriſtians, we ſpeak much of contentment, and it is uſuall to ſay, <hi>I thank God I am content with what I have;</hi> but certainly, if thou art not brought over from the world unto Chriſt, and doeſt not en<g ref="char:EOLhyphen"/>joy thy ſelfe in him, thou didſt never yet know what contentment meaneth.</p>
+                  <p>The Prophet <hi>Habakkuk</hi> ſeeth the worldling loading himſelfe with <hi>thick clay,</hi>
+                     <note place="margin">Habak. 2.9.</note> and calls unto him, <hi>Woe to him that coveteth an evill cove<g ref="char:EOLhyphen"/>touſneſſe.</hi> There is a covetouſneſſe which is good, to <hi>covet</hi> (as the Spi<g ref="char:EOLhyphen"/>rit directs us) <hi>the beſt gifts,</hi>
+                     <note place="margin">1 Cor. 12.31.</note> and be you herein as covetous as your hearts can hold, and ſpare not. But there are other gifts which the Heathens call gifts of Fortune, becauſe of their inconſtancy: and of theſe is the evill covetouſneſſe, to covet to make <hi>the Houſe great,</hi> and not <hi>the heart good.</hi>
+                     <note place="margin">Habak. 2.10.</note> The ſame Prophet calls to ſuch and tells them in plain language, that they <hi>conſult ſhame to their own houſe.</hi> But how is that, you will ſay? Without all queſtion, the covetous man takes counſell within himſelfe, with <hi>Edom,</hi> to build his Neſt on high: hee conſults nothing but glory to his Houſe; but conſulting not with God and his Word in his wayes, the wiſe and holy Providence turns his counſels into fooliſhneſſe, and the glory of his Houſe into ſhame.</p>
+                  <p>Little do many think how ſoon and how ſad the Accounts may be to them and to their families, who have raiſed their houſes by the undoing of their brethren. Some that have willingly emptied them<g ref="char:EOLhyphen"/>ſelves to make them full, and others that have been drained by them to make their morſels fat, and their cups to over-flow. <hi>He hath ſwal<g ref="char:EOLhyphen"/>lowed down riches,</hi>
+                     <note place="margin">Job. 20.15.</note> (ſaith <hi>Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>phar</hi> in <hi>Job</hi>) <hi>and he ſhall vomit them up a<g ref="char:EOLhyphen"/>gain;</hi> but when <hi>Judas</hi> would have vomited up his prize of blood, it choaked him with an halter.</p>
+                  <pb n="41" facs="tcp:93431:8"/>
+                  <p>This is all I ſhall ſay more to this point, He onely is a poore man that is ever in wa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s, and he is ever in wants that covets to be rich: and, which is farre worſe, a worſe tyrant there cannot bee then a mans own luſts, nor a worſe flave then he that ſerves it. And what doth he that covets to be rich having a ſufficiency, but covet to ſerve his unſatisfied luſt; at leaſt as he that weares a thin ſilk cloake up<g ref="char:EOLhyphen"/>on a thick fur'd gown, doth ſhew the wantonneſſe of his ſpirit, not any uſefull imployment he makes of it: even ſo when ſuperfluity and not neceſſity doth excrutiate the ſoule with worldly cares, it argues the mind full of vanity, and the heart full of pride.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>2</label> But ſecondly, I would rather exhort you, and O that I had argu<g ref="char:EOLhyphen"/>ment ſtrong enough to perſwade the worldlings reaſon, that there is reaſon enough, hee ſhould be perſwaded to moderation: If from nothing elſe, yet from the things themſelves which he ſo much co<g ref="char:EOLhyphen"/>vets.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> For firſt, Riches and great eſtates, at their beſt cannot make the poſſeſſors thereof better: nay, he muſt be exceeding good, that is not made much the worſe by them; for hee that travelleth in his abun<g ref="char:EOLhyphen"/>dance, <hi>walketh upon ſnares,</hi>
+                     <note place="margin">2 Tim. 6.9.</note> and had need of much grace to keep his ſoule, that he be not entangled and undone by them.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, look upon thy proſperity and glory at the higheſt, it is but as thy ſhadow in the Sunne, the leaſt cloud over-caſts it at high noon; and that which in the morning is before thee, in the evening is behind thee: and all is but <hi>mane &amp; veſper,</hi> of adayes continuance, ſo ſoon paſſeth it away, and we are gon.</p>
+                  <p>O that theſe reaſons now, would make your reaſon to yeeld to <hi>Je<g ref="char:EOLhyphen"/>remies Content:</hi> a <hi>Content</hi> ſuitable to your mortall <hi>Condition. O that I had the Cottage of a wayfaring-man in the wilderneſſe.</hi>
+                  </p>
+                  <p>That was the firſt Generall of our Text, which I have now com<g ref="char:EOLhyphen"/>paſſed, <hi>Jeremies Content:</hi> I had a deſire to have given you his <hi>Ac<g ref="char:EOLhyphen"/>count</hi> why he deſired his <hi>Cottage in the wilderneſſe, That I might leave my people, and go from them.</hi> But I know the limits of your time in theſe morning Exerciſes, and I ſhall not exceed.</p>
+                  <p>
+                     <hi>Reader, here were ſome counſels added upon the ſecond point which follow in the end of the ſecond Sermon.</hi>
+                  </p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:93431:9"/>
+                  <pb facs="tcp:93431:9"/>
+                  <p>
+                     <hi>The ſecond Sermon.</hi>
+                  </p>
+                  <p>THE ACCOMPT OF A MINISTERS REMOVE: <hi>OR JEREMY</hi> DEPARTING FROM <hi>HIERUSALEM.</hi>
+                  </p>
+                  <q>
+                     <p>Caveat magiſtratus né ſtipendia a piis majoribus inſtituta diminu<g ref="char:EOLhyphen"/>at, vel diminui &amp; interverti patiatur, Deus enim vindex horum omnium, &amp; famem miniſtrorum ſequi ſolet fames verbi in in<g ref="char:EOLhyphen"/>grata illa regione.</p>
+                     <bibl>
+                        <hi>Joh: Gerhard loc. com. de Ma<g ref="char:EOLhyphen"/>giſtrat. polit. ſect. 185.</hi>
+                     </bibl>
+                  </q>
+                  <q>
+                     <bibl>
+                        <hi>Hebr. 13.17.</hi>
+                     </bibl>
+                     <p>Obey them that have the over-ſight over you, and ſubmit your ſelves, for they watch for your ſoules, as they that muſt give account, that they may do it with joy, and not with griefe, for that is unprofitable for you.</p>
+                  </q>
+                  <p>
+                     <hi>LONDON;</hi> Printed by <hi>Matthew Simmons.</hi> 1648.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:93431:10"/>
+                  <pb n="45" facs="tcp:93431:10"/>
+                  <head>TO THE RIGHT WORSHIPFULL, <hi>FRANCIS B<g ref="char:V">Ʋ</g>LLER,</hi> ESQUIRE, Member of the Houſe of <hi>COMMONS; Abundance of Grace, and aſſurance of Glory.</hi>
+                  </head>
+                  <opener>
+                     <salute>Noble Sir,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>HIS Account of a Miniſters Remo<g ref="char:EOLhyphen"/>vall, being preſſed into publicke, doth hand unto me this publick acknowledge<g ref="char:EOLhyphen"/>ment of what I owe unto your Family, for my firſt induction unto a Paſtoral charge; wherein, although it pleaſed God to make my Cup exceeding bitter by two that bore the marks of Gods manifeſt diſpleaſure, the one killed by the Sword of his Comrade in an Alehouſe; the other ſtigmati<g ref="char:EOLhyphen"/>zed as <hi>Cain,</hi> a fugitive from Gods Houſe, and from all Civill Societies, for eight or nine yeares together: yet it pleaſed God to make my comforts ſuperabundantly ſweet in ſome ſpirituall
+<pb facs="tcp:93431:11"/>ſeed there, the growth whereof I ſaw, eſpecially in that Ordi<g ref="char:EOLhyphen"/>nance of Catechiſing, wherein your Family bleſſed the Con<g ref="char:EOLhyphen"/>gregation with a fruitfull example.</p>
+                  <p>It is our happineſſe if we may be ſerviceable to God, and to his Church in our generations, and then is greatneſſe both ho<g ref="char:EOLhyphen"/>nourable and comfortable, when it is acted by grace.</p>
+                  <p>The good God of heaven encourage your power and parts to ſhine as a light upon an Hill, to all that are in the valley be<g ref="char:EOLhyphen"/>neath you, and make you happy in the ſaving comforts of your Family. Which is the earneſt prayer of</p>
+                  <closer>
+                     <signed>Your Worſhips and your Families moſt humbly devoted, JOHN FATHERS.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="sermon">
+                  <pb facs="tcp:93431:11"/>
+                  <head>THE ACCOUNT OF A Miniſters Remove: OR, Jeremy <hi>departing from</hi> Jeruſalem: THE SECOND SERMON.</head>
+                  <epigraph>
+                     <q>
+                        <bibl>
+                           <hi>JEREM. 9.2.</hi>
+                        </bibl>
+                        <p>O that I had the Cottage of a wayfaring man in the wilderneſſe, that I might leave my people, and goe from them.</p>
+                     </q>
+                  </epigraph>
+                  <p>
+                     <seg rend="decorInit">W</seg>E have lately in another Exerciſe, and place, lodged <hi>Jeremy</hi> in his <hi>Cottage,</hi> and in him and it, have obſerved, how moderate gracious deſires are, how ſuitable a mean <hi>Content</hi> is unto a mor<g ref="char:EOLhyphen"/>tall <hi>Condition?</hi> and how much better a low and peaceable eſtate, then an high and trou<g ref="char:EOLhyphen"/>bleſome? We are now to look back unto <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> and to ſee how it ſtands between <hi>Jeremy</hi> and his people, that he is ſo preſt to leave them, to examine the <hi>Account</hi> or reaſon of his former deſire. From whence (not to loſe time in ope<g ref="char:EOLhyphen"/>ning particulars) ſome of you may remember, that I preſented to you this generall Obſervation:</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Generall Doctrine. </seg>2</label> 
+                     <hi>That good Miniſters may, upon warrantable grounds, deſire to remove from an unkind people.</hi>
+                  </p>
+                  <p>In purſuance of this Doctrine, we ſhall make out two Queſtions, which if we doe not bring into queſtion, the people will for us.</p>
+                  <pb n="48" facs="tcp:93431:12"/>
+                  <p n="1">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Quſt. </seg>
+                     </label> 1. How a good Miniſter can have a bad people, and the fault not his?</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. How a good Miniſter can leave his people, be they never ſo bad?</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Queſt. </seg>1</label> For the firſt, how a good Miniſter can have a bad people, and the fault not his, whoſe work it is to make bad people good. Surely, ſay ſome, the fault muſt needs be the Miniſters that his people are ſo bad; for <hi>da Ambroſios &amp; habebis Theodoſios:</hi> Let the Miniſter be good, and the people will be eaſily wrought unto good by him: But either his life is amiſſe, or his labours too remiſſe; either he is too looſe, or too preciſe in his converſation; or too profound, or too plain in his do<g ref="char:EOLhyphen"/>ctrine; either he wants bountifulneſſe, or peaceableneſſe, humility or familiarity: Or perhaps the people may want themſelves in all theſe.</p>
+                  <p>I deny not but the fault may be ſomtimes the Miniſters, &amp; good Mini<g ref="char:EOLhyphen"/>ſters may have their faults, and his diſcomfort ſure it is, that his peo<g ref="char:EOLhyphen"/>ple are no better,<note place="margin">Heb. 13.17.</note> and his diſcomfort is the peoples diſprofit: <hi>Obey them that have the overſight of you, and ſubmit your ſelves, for they watch for your ſouls, as they that must give account, that they may doe it with joy, and not with grief, for that is unprofitable unto you:</hi> unprofitable unto you (ſaith the Apoſtle) that you ſhould make their lives grievous, who ſpend their lives to make yours good.</p>
+                  <p>But ſay my beloved, ſhew me the fault if you can, in <hi>Jeremies</hi> life, or labour, and yet his people ſo bad, as that he was not onely weary of them,<note place="margin">Jerem. 20.15.</note> but of his life too, becauſe hee could make theirs no better. Perhaps you will ſay he was paſſionate; It is true, he was, but it was in compaſſion of the peoples good, and in zeale to Gods glory. You will ſay he was ſtout and ſtiffe,<note place="margin">Jerem. 14.17, 19. Jerem. 15.19.</note> and it was needfull he ſhould be ſo: for the Lords charge unto him was, <hi>Let them return unto thee, but return not thou unto them.</hi>
+                  </p>
+                  <p>The Miniſtery of the Word muſt not comply with the froward humours and wayes of men, but their untoward wayes and humours muſt yeeld unto the Miniſtery of the Word. Yea, but his Miniſtery was of heavie things: yea, and he would not abate one ſyllable of his meſſage,<note place="margin">Jerem. 36.32.</note> though he ſaw the Kings wrath, the Nobles frowns, and the ſtinking Dungeon before him.</p>
+                  <p>But what ſay you then to <hi>Iſaiah?</hi> He was a man for theſe times, he was ſtiled <hi>the Evangelicall Prophet,</hi>
+                     <note place="margin">Sam. 19.2.27</note> and as <hi>David</hi> ſpake of <hi>Abimaaz, He is a good man, and bringeth good tidings.</hi> His propheſies were (for
+<pb n="49" facs="tcp:93431:12"/>the moſt part) Goſpel; he did myſteriouſly and ſweetly hold forth Jeſus Chriſt, and yet if you will beleeve him, he had as little com<g ref="char:EOLhyphen"/>fort amongſt his people, as other Mininiſters might have amongſt theirs. <hi>I have laboured in vaine</hi> (ſaith he) <hi>and ſpent my ſtrength for nothing,</hi> Iſai. 49.4.</p>
+                  <p>But what ſpeak I of the ſervant? the Lord it is, of whom this propheſie ſpeaks, as appeares by that which followes, verſe 6.<note place="margin">Acts 13.47.</note> 
+                     <hi>I will alſo give thee for a light of the Gentiles, and for ſalvation unto the ends of the earth.</hi> Which words the Apoſtle <hi>Paul</hi> in his Sermon at <hi>Antioch,</hi>
+                     <note place="margin">1 Tim. 3.16. 1 Pet. 2.22. Matth. 22.16. Luke 20.21.</note> bring<g ref="char:EOLhyphen"/>eth home unto that admirable piece of that <hi>great myſtery of Godlineſſe, Chriſt preached unto the Gentiles.</hi> And now for Chriſt, the Sunne ſaw never any mans life more inoffenſive then his. His Doctrine was with authority, he was a Teacher ſent from God, and taught the word of God truly, his greateſt oppoſites being his witneſſes: and yet it is the ſucceſleſneſſe of his owne Miniſtery unto the circumciſion, of which himſelf by the Prophet complaineth, <hi>I have laboured in vain, I ſpent my ſtrength for nothing.</hi> Of him alſo the Divine Evangeliſt te<g ref="char:EOLhyphen"/>ſtifieth, that <hi>He came unto his own, and his own received him not.</hi>
+                     <note place="margin">John 1.11.</note> It is more then manifeſt, he gave that bleſſing to the Miniſtery of the A<g ref="char:EOLhyphen"/>poſtles, which he with-held from his owne: There were more con<g ref="char:EOLhyphen"/>verted at one Sermon of <hi>Peter,</hi> then wee can read of by Chriſt in all his life time: ſuch was our Lords condeſcention to honour his Ordi<g ref="char:EOLhyphen"/>nances in his ſervants more then in himſelfe.</p>
+                  <p>Now by two or three witneſſes truths may be eſtabliſhed; but if for further confirmation you deſire reaſons, why a good Miniſter may be ill matcht with a bad people, and the fault not his, may you pleaſe to conſider theſe:</p>
+                  <p n="1">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reaſon </seg>1</label> 1. Mininiſters may ſay as <hi>Jacob, Are we in Gods ſtead,</hi> who hath with-held from us the fruit of our Miniſtery, whoſe prerogative a<g ref="char:EOLhyphen"/>lone it is to make the ſterill heart fruitfull,<note place="margin">Gen. 30.2. 1 Cor. 3.7.</note> and to beget the new crea<g ref="char:EOLhyphen"/>ture in the barren conſcience: the labour is our worke, the bleſſing is his.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Our ſpirituall Seed is not alwayes viſible, ſome may lie under the clods. A remnant may return, though the generality be ſtark naught.<note place="margin">Iſaiah 10.22.</note>
+                  </p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. What if the Lord be pleaſed to ſend his <hi>Ezekiels</hi> to a rebellious Houſe, that will not heare them. Gods glory is never the leſſe,<note place="margin">Ezek. 2.3. Iſai. 15.11. Ezek. 2.5.</note> though ours be under foot. His Word doth the work for which hee ſends it; and if the people know no more, yet this they ſhall know, that the Lord hath ſent a Prophet amongſt them. He was not wan<g ref="char:EOLhyphen"/>ting
+<pb n="50" facs="tcp:93431:13"/>to their good in outward means, if by not improving them, they had not been wanting unto their owne.</p>
+                  <p>Give me leave now to make ſome ſhort application of this point, and I have two words to ſay, to People, to Miniſter.</p>
+                  <p n="1">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>1</label> 1. To the People; and let me beſeech you good people, do not lay thoſe burthens on your Miniſters ſhoulders, which belong unto your own. It is one of the damnable ſtratagems of Hell to keep the peo<g ref="char:EOLhyphen"/>ple from profitableneſſe under the Miniſtery of the Word, by miſ<g ref="char:EOLhyphen"/>repreſenting unto them the cauſes of their unprofitableneſſe; and it is one of the mighty methods of Satan, to perſwade them to charge the cauſes any where, then where they ought, upon their own hearts.</p>
+                  <p>Yet one word more, (good people) beare, and I pray beare with your Miniſters complainings under your unprofitableneſſe: for ſurely their diſcomforts are exceeding great, not as you give out, for their went of outward comforts: [For without all queſtion, God will never leave a godly Miniſter unprovided for. If he ſtraghten him in one place, he will make room for him in another.] But becauſe Gods glory and your ſoules are dearer unto them then their lives. <hi>Moſes</hi> for the glory of Gods name,<note place="margin">Exod. 32.32. Rom. 9.3.</note> was contented to have his owne blotted out of the book of life; and <hi>Paul</hi> for the ſalvation of many, was preſt in zeale to have parted with his own.</p>
+                  <p>Nay, beloved, I will ſpeak a bold word and a true, your ſoules are much dearer unto your Miniſters, then they are unto your ſelves. For did you beſtow but halfe thoſe paines and cares about your own ſoules, which they beſtow upon yours, how good, how much better would they be!</p>
+                  <p>How prodigall are many of the ſonnes of <hi>Adam,</hi> to barter a<g ref="char:EOLhyphen"/>way the pretious purchaſe of Chriſts blood for an Apple, their Birth-right for a meſſe of pottage, their ſoules upon every ſlight temptation, when it coſts their Miniſter many a night watches, many a painfull ſwets, many a carefull thoughts, and heavy Ephialts, to recover the ſpoile out of the ſtrong mans hands again.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>2</label> To my fellow-labourers in the Goſpel, ſuch as doe ſee their ſeed and travell of their ſoule, whoſe lot is fallen unto them in a faire ground, and they have a good Congregation: <hi>Faelices nimium bona ſi ſua norint,</hi> I would have them to bleſſe God much for this rich mer<g ref="char:EOLhyphen"/>cy, who have caſt their lot amongſt a people reverently affected unto their Miniſtery. And I would perſwade them with all tenderneſſe of
+<pb n="51" facs="tcp:93431:13"/>ſpirit and condeſcenſion to blow up every ſparke of good, which they ſee amongſt their people.</p>
+                  <p>A word more I have to my fellow-ſufferers, who are diſcomforta<g ref="char:EOLhyphen"/>bly matcht with an unkinde and untractable people, though their comfort be leſſe then others, yet their reward may not: for our re<g ref="char:EOLhyphen"/>ward is not according to our ſucceſſe, but according to our labours. <hi>I have laboured in vaine, I have ſpent my ſtrength for nothing;</hi> ſaith Chriſt, ſaith <hi>Eſay: But my Judgement is with the Lord, and my work with the moſt High. Though Iſrael be not gathered; yet ſhall I be glorified.</hi>
+                  </p>
+                  <p>The clouds doe kindly ſerve divine providence in dropping down their fatneſſe, though the earth be not fruitfull, and the Sunne in gi<g ref="char:EOLhyphen"/>ving out his influences, though the clay be hardned; ſhould wee caſt our pearles before ſwine? Which doe not onely refuſe our pearles, but rend our perſons. Our pearles are not the leſſe precious, nor our kindneſſe the leſſe acceptable unto Jeſus Chriſt; for whoſe ſake wee both labour and ſuffer.</p>
+                  <p>I remember a paſſage between Chriſt and <hi>Peter,</hi>
+                     <note place="margin">Luke 5.4, 5.</note> Chriſt coming in<g ref="char:EOLhyphen"/>to <hi>Peters</hi> ſhip to preach, after he had don his Sermon, bad <hi>Peter</hi> to caſt out his net into the Sea, for a draught of fiſh, why Sir, ſaith <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> I have fiſht all night, and have caught nothing; nevertheleſſe, at thy command, I will let down the net. And the holy Story ſaith, <hi>He encloſed a great multitude of fiſhes.</hi> You know what Chriſt intended in this, to ſhew <hi>Peter</hi> what he ſhould expect when he ſhould ſhortly be made a fiſher of men. He might fiſh all night, and all day too, and catch nothing, if Chriſt be not with him: nevertheleſſe, having a word of command from Chriſt, he muſt doe his worke, and waite upon Chriſt for the word of his bleſſing.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Queſt. </seg>2</label> I have now diſpatcht the firſt Queſtion: How a good Miniſter may have a bad people, and the fault not his. The ſecond comes on, How a good Miniſter may lawfully leave his people, be they never ſo bad: And here, I ſhall make out the Solution in foure particulars.</p>
+                  <list>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. I ſhall ſhew what the intereſt and propriety is between the Mini<g ref="char:EOLhyphen"/>ſter and his people.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. How farre that propriety and intereſt doth binde the Miniſter to ſtay with his people?</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. In what caſe he may remoove: and what <hi>Jeremies</hi> caſe was here.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. What may be the warrantable ends and grounds of removall in ſuch a caſe.</item>
+                  </list>
+                  <pb n="52" facs="tcp:93431:14"/>
+                  <p>Theſe ſad and troubleſome times have occaſioned many remooves of Miniſters, and their remooves many diſputes among the people. A word to theſe will not be u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſeaſonable in theſe times.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Queſt. </seg>1</label> And firſt what the Intereſt and propriety is between Miniſter and people. <hi>O that I bad the cottage of a wayfaring man in the Wilderneſſe, that I might leave my people. My people,</hi> ſaith <hi>Jeremy.</hi> But how ſo. The Prophets were not aſſigned unto peculiar charges, as the Prieſts were at <hi>Jeruſalem,</hi> and the Levites unto their particular Cities; and yet <hi>Je<g ref="char:EOLhyphen"/>remy's</hi> delegation wee ſhall finde to be chiefly to the head-Citie, as ap<g ref="char:EOLhyphen"/>peares by Chapter the firſt of this Prophecy, and ver. 18. Where his Commiſſion is directed unto the Kings of <hi>Judah,</hi> and to the Princes and Prieſts that were in <hi>Jeruſalem.</hi> In order whereunto wee ſhall reade Chapter 5 ver. 1. and 5. He went up and down the ſtreets of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> to finde out one righteous and pious man. Upon this ground it is not improbable that he calls thoſe of <hi>Jeruſalem my people,</hi> to diſtinguiſh them from thoſe in the Wilderneſſe of <hi>Judea,</hi> of <hi>Ziph,</hi> or of <hi>Maon;</hi> into ſome one of which he might deſire to remoove: <hi>O that I had the cottage of a wayfaring man in the Wilderneſſe, that I might leave my peo<g ref="char:EOLhyphen"/>ple.</hi> But whether wee confine <hi>Jeremy's</hi> Dioces unto <hi>Jeruſalem,</hi> or en<g ref="char:EOLhyphen"/>large it over all <hi>Judea,</hi> a propriety of relation he had, and every Mini<g ref="char:EOLhyphen"/>ſter hath in that people to whom the Lord doth ſend him.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Obſerv. </seg>
+                     </label> 
+                     <hi>Miniſters and people have mutuall intereſts one in the other.</hi>
+                  </p>
+                  <p>S<hi rend="sup">t</hi> 
+                     <hi>Paul</hi> claimes as genuine and naturall right in his <hi>Corinthians</hi> and <hi>Galatians,</hi>
+                     <note place="margin">1 Cor. 4.15. Gal. 4.19.</note> as their father that did beget them, or their mother that did travaile in birth for them. Notwithſtanding it was not <hi>Paul</hi> that did beget the <hi>Corinthians,</hi> but the Lord by him. Nor was it he that did bring forth the new creature in the <hi>Galatians,</hi> but the Spirit by him. Such is our good Lords condeſcenſion unto his worthleſſe Miniſters, as that he doth oft times in Scripture transferre over, as it were his right unto his Miniſters, by aſcribing that unto their power, which belongs unto his own, and allowing them to aſſume that right in his people, which none can truly challenge but himſelfe; as he ſaith to <hi>Moſes,</hi>
+                     <note place="margin">Deut. 9.12.</note> 
+                     <hi>Thy people</hi> which <hi>thou</hi> haſt brought out of <hi>Aegypt;</hi> when the people were neither of <hi>Moſes</hi> conſtitution, nor of his bringing out of <hi>Aegypt,</hi> but the Lords.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>1</label> A word of uſe to this. Surely the intereſt is very great between Miniſter and people, and the bond very ſtrickt, both to enforce the Miniſters care, and the peoples love, nor can indeed the Miniſter be careleſſe, or the people unloving, if this propriety of relation be laid home.</p>
+                  <pb n="53" facs="tcp:93431:14"/>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> The more I wonder at their unnaturall unkindneſſe, who doe not onely forſake, but diſdaine, yea and reproach thoſe Miniſters, by whom if ever they were begotten in the Lord, they muſt confeſſe they were begotten through them.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Queſt. </seg>2</label> But now the ſecond Queſtion is, How farre this propriety and in<g ref="char:EOLhyphen"/>tereſt between Miniſter and people, binds the Miniſter to ſtay with them?</p>
+                  <p>I conceive, they urge it by much too farre, that would have it as fixt and abſolute, as between man and wife, To have and to hold, for richer, for poorer, for better, for worſe, till death us depart.</p>
+                  <p>Be the Miniſters condition or peoples carriage what it will, the Miniſter in their opinion can no more lawfully leave his people, then a man his wife. Would theſe likewiſe allow the wiſe, to have no right in what is hers, but what is her husbands? I trow they would not. I heare the Apoſtle ſay unto his <hi>Corinthians,</hi>
+                     <note place="margin">2 Cor. 11.2.</note> I have eſpouſed you un<g ref="char:EOLhyphen"/>to one <hi>husband,</hi> which is <hi>Chriſt,</hi> but he doth not ſay, I have eſpouſed you unto one <hi>husband,</hi> which is <hi>my ſelfe.</hi>
+                  </p>
+                  <p>But grant the relation to be ſo fixed, as between man and wife, yet there are ſome caſes in which man and wife may ſeparate: And that is now our Third labour to finde out that caſe.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Queſt. </seg>3</label> Good people that are unwilling to leave their Paſtour wee cannot blame to queſtion, whether their Paſtour might lawfully leave them. <hi>Et <g ref="char:V">Ʋ</g>tinam,</hi> I would to God—But this is not the caſe between <hi>Je<g ref="char:EOLhyphen"/>remy</hi> and his people.</p>
+                  <p>
+                     <hi>Leo</hi> hath a decree againſt thoſe, who doe remove from ſmall livings unto great: <hi>Si quis mediocritate ſedis ſuae diſpecta adminiſtrationem loci celebrioris ambiret, non ſalùm a Cathedra pellatur aliena ſed car<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>bit &amp; pro<g ref="char:EOLhyphen"/>pria.</hi> I need not interpret to thoſe by whom I deſire to be underſtood. <hi>Qui ad curas pervenerint tanquam ſine cura victuri, honori totùm dati, ſanitati nihil.</hi> Who as thoſe Eccleſiaſticks in <hi>Barnards</hi> time purſue their own preferment, not the peoples well fare.</p>
+                  <p>The Councell of <hi>Chalcedon</hi> hath another <hi>Canon,</hi> not much unlike the former, againſt removing from a Countrey to a Citie-charge; The caution in both is: <hi>Si quis ambiret,</hi> if authority draws the Mini<g ref="char:EOLhyphen"/>ſter; But <hi>Si majorum authoritate inductus:</hi> If authority calls the Mini<g ref="char:EOLhyphen"/>ſter, and (I will adde too) the love of the Congregation, the caſe is otherwiſe: But neither of theſe caſes doth hitt ours; for <hi>Jeremy</hi> was contented to have changed his <hi>province</hi> in <hi>Jeruſalem,</hi> for a <hi>cottage</hi> in the Wilderneſſe.</p>
+                  <pb n="54" facs="tcp:93431:15"/>
+                  <p>That clauſe then in the eighteenth Canon of the Councell of <hi>An<g ref="char:EOLhyphen"/>tioch</hi> better fits us: <hi>Si non vitio ſuo, ſed plebis contradictione paſtor abie<g ref="char:EOLhyphen"/>rit;</hi> If the removall of a Miniſter, be not occaſioned by any miſ<g ref="char:EOLhyphen"/>carriage in the Miniſter, but provoked by the ill carriage of the peo<g ref="char:EOLhyphen"/>ple: And ſo it was here: <hi>O that I had the cottage of a wayfaring<g ref="char:EOLhyphen"/>man in the Wilderneſſe, that I might leave my people, and goe from them.</hi> Doe you aske why? <hi>Jeremy</hi> will tell you in the words below my text, that his people were ſo bad, he could not tell how with any comfort to live longer with them. And how bad they were, I had rather you ſhould there reade, then I report unto you.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Queſt. </seg>4</label> And now I come to the fourth and maine point of the Doctrine, to ſet forth unto you, what thoſe warrantable ends and grounds are, upon which a Miniſter may leave his people: And here are two things which wee ſhall open unto you.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The lawfull ends which muſt be in a Miniſter.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The ſinfull provocations that may be in a people.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Wee will enquire what were <hi>Jeremy's</hi> ends, for which he deſired his remoovall into the Wilderneſſe; And his ends I conceive, may be three.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. The ſucceſſe of his Miniſtry.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. The ſafety of his perſon.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. The tranquillitie of his conſcience.</p>
+                  <p>In reference to which, I ſhall reminde you of that threefold accep<g ref="char:EOLhyphen"/>tion of this word <hi>Wilderneſſe</hi> in Scripture, which I mentioned in the opening of the Text. Suitable to <hi>Jeremy's</hi> threefold end of remo<g ref="char:EOLhyphen"/>vall.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. It is taken metaphorically for a rude and untaught people, and <hi>Jeremy</hi> might hope for better ſucceſſe of his Miniſtry in ſuch a Wilderneſſe then in <hi>Jeruſalem.</hi>
+                  </p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. It is taken literally, for a place not at all inhabited, and per<g ref="char:EOLhyphen"/>haps <hi>Jeremy</hi> might expect more ſafety of his perſon amongſt wilde beaſts, then amongſt wicked men.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. It is taken more ſtricktly for a place inhabited, but not fully peopled, and <hi>Jeremy's</hi> ſoule vexed with the ſinnes of <hi>Jeruſalem,</hi> he might deſire the peace and comfort of it, in ſome ſafe and ſolitary retiredneſſe: <hi>O that I had the cottage of a wayſaring-man in the Wilder<g ref="char:EOLhyphen"/>neſſe, that I might leave my people, and goe from them.</hi>
+                  </p>
+                  <p>I ſhall now overlooke theſe againe; and hand you out ſome few obſervations from them, and then apply unto the generall Doctrine.</p>
+                  <pb n="55" facs="tcp:93431:15"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">End. </seg>1</label> The firſt lawfull end in a Miniſters removall,<note place="margin">Vtinam liceat mihi agere in ſolitudine ut non cogar per vocatione<g ref="char:cmbAbbrStroke">̄</g> me<g ref="char:EOLhyphen"/>am ſervire iſti impio popule. <hi>Pomeran. in Loc.</hi>
+                     </note> is the hopefull ſuc<g ref="char:EOLhyphen"/>ceſſe of his Miniſtry, and for this <hi>Jeremy</hi> might deſire a cottage in the Wilderneſſe of <hi>Judea,</hi> of <hi>Ziph,</hi> or of <hi>Maon,</hi> expecting better ſuc<g ref="char:EOLhyphen"/>ceſſe of his Miniſtry, in ſuch a barren place, then in <hi>Jeruſalem,</hi> which was fruitfull in wickedneſſe.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Obſerv. </seg>
+                     </label> 
+                     <hi>Sancta ruſticitas coeleſti regno aptior, quam docta malitia, The poore and ſimple uſually give that entertainment unto the Miniſtry of the Word, which the great and worldly wiſe do not neglect only, but deſpiſe:</hi> for world<g ref="char:EOLhyphen"/>ly greatneſſe thinks it ſelfe too great,<note place="margin">1 Cor. 1.27.</note> &amp; fleſhly wiſdome too wiſe to be ordered by that which they call, <hi>the fooliſhneſſe of preaching.</hi> Therefore hath <hi>the Lord choſen the weak and fooliſh things of the world, to confound the wiſe and mighty.</hi> And Wiſdome will tell you,<note place="margin">Prov. 9.4.26.12.</note> that her preparations are for the ſimple, and ſhee hath reaſon for it: <hi>Becauſe there is more hope of a foole, then of him that is wiſe in his own conceit.</hi>
+                  </p>
+                  <p>When <hi>John Baptiſt</hi> ſent his Diſciples to know of Chriſt, <hi>Whether he were the Meſſiah, or whether they ſhould look for another;</hi> Chriſt told them of the Wonders which were done by him: <hi>The deafe heare, the blind receive their ſight, the dead are raiſed to life,</hi> and amongſt other wonders of his Kingdome, he brings in this with (if not above) the reſt; <hi>The poore receive the Goſpel:</hi> Our latter Engliſh reads it,<note place="margin">Matth. 11.15.</note> 
+                     <hi>To the poore is the Goſpel preached.</hi> But that is no wonder; for to poore and rich the Go<g ref="char:EOLhyphen"/>ſpel is preached. But this is the wonder to the ſcornfull world, and indeed a great ſecret it is of Chriſts Kingdome, that the poore receive the Goſpel better then the rich.</p>
+                  <p>It was no Paradox to him that ſaid; The Devill hath more a doe to winne the ſimple, then the ſubtile, and the Miniſter leſſe: Becauſe the worldly wiſe are ſooner enraged by the Miniſtry of the Word, then wonne by it: For that the Miniſtry of the Word croſſes with the contentments of the world, and the wiſdome of the Spirit bids open warre againſt the wiſdome of the fleſh; Whereas in the poore and ig<g ref="char:EOLhyphen"/>norant temptations againſt the Word being leſſe, the entertainment of it is eaſier.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>1</label> To apply a little. I would by the poore and ignorant, provoke the rich and worldly-wiſe to an holy envie. I do not ſay, but ſome moun<g ref="char:EOLhyphen"/>taines may be brought low, and ſome hills plowed as well as the val<g ref="char:EOLhyphen"/>lies. Our net as <hi>Peters</hi> may ſometime catch great fiſhes as well as ſmall, and when great fiſhes come to our net, and break not through, the labour is not better anſwered, then the labourer comforted. But where wee labour all night and catch nothing, ſurely neither <hi>comfort</hi> nor <hi>Chriſt</hi> is there.</p>
+                  <pb n="56" facs="tcp:93431:16"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>2</label> The labour of our Miniſtry is greater to lay the <hi>foundation,</hi> then to make <hi>ſuperſtructures;</hi> But if the labour prove effectuall, the comfort is exceeding: for this wee need not travaile the Deſerts of <hi>America.</hi> There are too many <hi>Wilderneſſes</hi> within the borders of our <hi>Iſrael.</hi> Congregations which with <hi>Zebulon</hi> and <hi>Nepthali</hi> yet ſit in darkneſſe, and in the ſhadow of death. Should my Brethren enforce themſelves with <hi>Paul,</hi> to preach the Goſpel where Chriſt is not named, they might poſſibly with <hi>Paul</hi> finde better entertainment amongſt the <hi>Bar<g ref="char:EOLhyphen"/>barians</hi> at <hi>Malta,</hi> then proſelytes at <hi>Jeruſalem.</hi> I meane amongſt thoſe that are humbly ignorant, ſooner then thoſe that are conceitedly knowing. And this is now the firſt end of <hi>Jeremy's</hi> deſire of removall, the hopefull ſucceſſe of his Miniſtry in the Wilderneſſe; <hi>O that I had the cottage of a Wayfaring-man in the Wilderneſſe, that I might leave my people, and goe from them.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">End. </seg>2</label> The ſecond end of <hi>Jeremy's</hi> deſired removall, was the ſafety of his perſon: and here wee take <hi>Wilderneſſe</hi> for a Defert of wilde beaſts, and as <hi>Jeremy</hi> might hope for more comfort of his Miniſtry amongſt a rude and untaught people; ſo more ſafety of his perſon, among wilde and ſavage beaſts. You will take it as a very hard ſaying, but it is more hard and heavy that it ſhould be true, yet too true it is, that</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Obſerv. </seg>
+                     </label> 
+                     <hi>The ſervants of God have found more ſecurity amongſt wilde beaſts, then amongst wicked men.</hi>
+                  </p>
+                  <p>That decree in Paradiſe of enmity between the Womans and the Serpents ſeede,<note place="margin">Gen. 3.15.</note> is both literally and myſtically true. The naturall ſeede is not ſo envious to man, but the ſupernaturall is much more envious to the Chriſtian man. The Woman in the twelfth of the <hi>Revelation</hi> fled for her ſecurity into the Wilderneſſe, and her bleſſed man childe the Lord Chriſt was ſafe in the Wilderneſſe, who ſuffered in <hi>Jeru<g ref="char:EOLhyphen"/>ſalem. Daniel</hi> found more mercy from the Lyons,<note place="margin">Mat. 4. Dan. 6.22.</note> then from the <hi>Ba<g ref="char:EOLhyphen"/>bylonians.</hi> And the Ravens which of all birds are moſt envious to man,<note place="margin">1 King. 17.6.</note> were more pittifull to the Prophet then man was. <hi>Euſebius</hi> re<g ref="char:EOLhyphen"/>ports of certain Chriſtians of <hi>Tyre</hi> in <hi>Phoenicia,</hi> whoſe bodies were ex<g ref="char:EOLhyphen"/>poſed unto wilde beaſts, and whileſt the beaſts by an inſtinct of reve<g ref="char:EOLhyphen"/>rence abſtained from them, they did not yet eſcape the cruelties of men, more rabid then the beaſts.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>1</label> My Brethren, Let us all take this home, and wonder what wee are by nature. The kingdome of Jeſus Chriſt in the 11. of <hi>Iſa.</hi> is ſet forth by wilde beaſts changed from the rabidneſſe of their natures, and the kingdomes of men in the 7. of <hi>Daniel</hi> by wilde beaſts that doe continue
+<pb n="57" facs="tcp:93431:16"/>and exerciſe their native fierceneſſe: the kingdomes of men will prove little better then the kingdomes of beaſts, where the kingdome of Chriſt is oppoſed. <hi>Homo homini lupus:</hi> there is no beaſt more ſavage by nature then man is, unleſſe the Kingdome of Chriſt doth either re<g ref="char:EOLhyphen"/>generate or reſtrain him.</p>
+                  <p>There is much in that, &amp; I deſire it may be noted, the holy Scrip<g ref="char:EOLhyphen"/>tures do often tutor the reaſonable <hi>man</hi> by unreaſonable <hi>beaſts;</hi> becauſe man being in honor little lower then the Angels, by his fall became worſe than beaſts: Beaſts yeelding that obedience to God, and ſervice to man, which men deny both to God and man. <hi>Baſil</hi> of <hi>Seleucia</hi> not improperly obſerves, that the beaſts before the flood were more tra<g ref="char:EOLhyphen"/>ctable to the command of God, and to the miniſtery of <hi>Noah,</hi> then the men of the old world were: for they entred into the Ark and were ſaved, the other refuſed, and periſhed.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>2</label> Let us think how dreadfull the day will be, when not onely the men of <hi>Nineveh,</hi> a <hi>Wilderneſſe</hi> of untaught <hi>people,</hi> but the Lions of <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> a <hi>Wilderneſſe</hi> of ſavage <hi>Beaſts,</hi> ſhall riſe up in judgement againſt the men of this generation, and condemne them; who doe moſt cru<g ref="char:EOLhyphen"/>elly bite and devour one the other, whileſt the beaſts of the field are at peace with us.</p>
+                  <p>This is now the ſecond end of <hi>Jeremy's</hi> deſire of removall, the ſafe<g ref="char:EOLhyphen"/>ty of his perſon, which he would rather venture in the wilderneſſe, then in <hi>Jeruſalem. O that I had the Cottage of a Wayfaring-man in the Wilderneſſe, that I might leave my people, and goe from them.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">End </seg>3</label> The third end of <hi>Jeremy's</hi> deſired removall, <note place="margin">Melius eſt ha<g ref="char:EOLhyphen"/>bit are in extre<g ref="char:EOLhyphen"/>ma ſolitudine, qua<g ref="char:cmbAbbrStroke">̄</g> inter ta<g ref="char:cmbAbbrStroke">̄</g>ta hominu<g ref="char:cmbAbbrStroke">̄</g> ſcelera commorari. <hi>Hier. in loc. Pſalm 120.5.</hi>
+                     </note> was the tranquillity of his conſcience, being grieved with the abominations that were in <hi>Jeruſalem,</hi> he deſired to retire into the wilderneſſe. <hi>How much better is an harmleſſe and homely retiredneſſe, then the merry-madneſſe of ungodly Societies?</hi> An Hermites life then a Ruffians? To be alwayes without company, then not to keep good? To dwell in the wilderneſſe, then in the tents of wickedneſſe? You know whoſe complaint it is, <hi>Woe is me that I am conſtrained to dwell in Meſhek, and to inhabit the tents of Kedar, my ſoule hath too long dwelt with them that are enemies to peace.</hi> And yet I heare him ſay elſewhere,<note place="margin">Pſalm. 16.6.</note> 
+                     <hi>The lines are fallen unto me in plea<g ref="char:EOLhyphen"/>ſant places, and I have a goodly heritage. Bona terra, mala gens.</hi> In re<g ref="char:EOLhyphen"/>gard of the place, ſo it may be; but in regard of the people, <hi>woe is me.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>1</label> That holy reſolution of good old <hi>Jacob</hi> in <hi>Gen.</hi> 49. and the ſixth, is that which I ſhall apply for caution againſt evill Societies, <hi>Into their
+<pb n="58" facs="tcp:93431:17"/>ſecret let not my ſoule come, my glory be not thou joyned with their Aſſembly.</hi> Or that prayer of <hi>David,</hi> Pſalm 141. verſ. 4. <hi>Lord let not my ſoule eat of their delicates. Lots</hi> eye was great upon the fat and pleaſant vallies of <hi>Sodom,</hi>
+                     <note place="margin">Gen. 13.10.19.12.</note> but his righteous ſoule was vexed with the deteſtable wicked<g ref="char:EOLhyphen"/>neſſe of the people, and becauſe he did not diſlodge himſelf, the Lord did ſuddenly fire him out. <hi>Eſt aliquid mali, vicinum eſſe malo,</hi> it is bad to live by bad neighbours. If we feare not an houſe infected, we ſhould dread an houſe on fire. The houſe infected is their ſinne, the houſe on fire is their judgement; and in as much as we are parta<g ref="char:EOLhyphen"/>kers of their ſinnes,<note place="margin">Rev. 18.4.</note> we ſhall be partakers of their judgements. <hi>Jeremy,</hi> to avoid both, deſired to retire wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h ſafety into the wilderneſſe, rather then to live in <hi>Jeruſalem</hi> with fire over his head: <hi>O that I had the Cottage of a wayfaring-man in the wilderneſſe, that I might leave my people and goe from them.</hi>
+                  </p>
+                  <p>I have now done with the ends which might be lawfull in the Mi<g ref="char:EOLhyphen"/>niſter to deſire his removall; I come to the provocations which are ſinfull in the people to inforce his removall. And <hi>lawfull ends, and ſinfull provocations joyned together,</hi>
+                     <note place="margin">Obſerv.</note> 
+                     <hi>will certainly warrant a Miniſters removall.</hi>
+                  </p>
+                  <p>There are ſoure great provocations wherewith <hi>Jeremy</hi> doth charge his people.</p>
+                  <list>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Their intractableneſſe to the miniſtery of the Word.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Their unmercifulneſſe, in with-holding maintenance.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Their deſperate Apoſtaſie.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. Their bitter perſecution.</item>
+                  </list>
+                  <p>Now I charge none with theſe, but ſhall ſhew how lawfull the re<g ref="char:EOLhyphen"/>movall is where theſe may be charged.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Provoca∣tion. </seg>1</label> The firſt provocation of the people is; their generall inflexibleneſſe unto good, and intractableneſſe under the miniſtery of the Word. Of this our Prophet complains, Chap. 5. v. 12. That the men of <hi>Judah</hi> had belied the Lord their God, and accounted the words of his Prophets as wind. And Chap. 8. v. 9. They had rejected the word of the Lord, and there was no underſtanding left in them.</p>
+                  <p>Now this is a very ſad provocation unto a Miniſter, which may not unjuſtly occaſion his removall, as appeareth by that clauſe in the Mi<g ref="char:EOLhyphen"/>niſters commiſſion, <hi>Luke</hi> 10. v. 10, 11. <hi>Into whatſoever Citie you enter, and they receive you not, goe your wayes into the ſtreets of the ſame, and ſay, even the very duſt of the Citie which cleaveth on us, we doe wipe off againſt you.</hi>
+                  </p>
+                  <pb n="59" facs="tcp:93431:17"/>
+                  <p>And according to the tenor of this Commiſſion, <hi>Paul</hi> and <hi>Barna<g ref="char:EOLhyphen"/>bas</hi> ſhooke off the duſt of their feet againſt the unbeleeving Jewes at <hi>Antioch,</hi> and told them, <hi>It was neceſſary that the word of God at firſt ſhould have been ſpoken unto you: but ſeeing you put it from you, and judge your ſelves unworthy of everlaſting life; Lo, we turn to the Gentiles.</hi> Acts 13. v. 51. and 46. And in Acts 22. v. 18. The Lord charged the Doctor of the Gentiles to make haſt, and to get him quickly out of <hi>Jeruſalem,</hi> upon this ground, becauſe, ſaith he, <hi>they will not receive thy teſtimony concerning me.</hi> And when <hi>Paul</hi> had a great deſire to ſtay at <hi>Jeruſalem,</hi> as appeares by his reaſoning with the Lord, v. 19. and 20. No, ſaith Chriſt, do not plead for thy ſtay, but haſte thee to be gone, for I have a purpoſe to remove thee <hi>farre hence to the Gentiles,</hi> verſ. 21. What ſhould God doe with ſuch a people with whom his Word can doe no good? If they ſay to God, <hi>Depart from us, we will have no know<g ref="char:EOLhyphen"/>ledge of thy wayes,</hi> it is time for God to ſay to his Miniſters, Depart from them. <hi>Ex ore ſuo,</hi> out of their own mouth will I judge this peo<g ref="char:EOLhyphen"/>ple, becauſe they would not have the knowledge of my wayes, they ſhall not. And this is now their firſt provocation, their untractable<g ref="char:EOLhyphen"/>neſſe to the miniſtery of the Word.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Provoca∣tion. </seg>2</label> The ſecond provocation in the people is,<note place="margin">Jer. 38.9. 1 Cor. 9.13.</note> Their unmercifulneſſe in with-holding maintenance from their Miniſters. The Princes of Je<g ref="char:EOLhyphen"/>ruſalem would have ſtarved <hi>Jeremy</hi> in the Dungeon, if an Aethyopian had not been more pittifull unto him then any Iſraelite was.</p>
+                  <p>Maintenance is allowed on all ſides, that he who <hi>waits</hi> at the <hi>Al<g ref="char:EOLhyphen"/>tar,</hi>
+                     <note place="margin">V. 7.9.</note> ſhould <hi>live</hi> by the <hi>Altar.</hi> And the Apoſtle makes it out by divers arguments drawn from Natures laws, and if men would but meaſure the <hi>quotum</hi> by halfe that allowance which they give to one luſt, they would be more reaſonable in judging what were a competency.</p>
+                  <p>It is a great provocation when people with-draw their affections from their Miniſters, and beſtow them on thoſe who with-draw their ſoules from the truth, as thoſe <hi>Galatians</hi> gave their hearts to ſuch as plucked out their <hi>ſpirituall eyes,</hi> who a little before would have pluc<g ref="char:EOLhyphen"/>ked out their <hi>corporall eyes</hi> to have given <hi>Paul.</hi>
+                     <note place="margin">Gal. 4.15.</note> But when people alſo with-draw maintenance. the bond of covenant between Miniſter and people is broken. For though the Covenant be not alwayes expreſſed, yet it is alwayes implied, that the people, <hi>plus multo,</hi> ſhould bee as care<g ref="char:EOLhyphen"/>full, and as <hi>certain</hi> unto the Miniſter in <hi>temporals,</hi> as the Miniſter unto them in <hi>ſpirituals,</hi> 1 <hi>Cor.</hi> 9. v. 11.</p>
+                  <p>The Civill law allowes the wife (and if it did not, the law of Na<g ref="char:EOLhyphen"/>ture
+<pb n="60" facs="tcp:93431:18"/>doth) receiving not <hi>victum,</hi> livelihood from him to whom ſhe is a helper, to ſeek <hi>alimentum,</hi> ſubſiſtence elſewhere.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Provoca∣tion. </seg>3</label> The third provocation in the people is Apoſtafie, and this <hi>Jeremy</hi> charges double on <hi>Jeruſalem,</hi> both in worſhip and in practice: In re<g ref="char:EOLhyphen"/>ference to the one, in the words below my Text, he calls them <hi>Adul<g ref="char:EOLhyphen"/>terers and Adultereſſes:</hi> In reference to the other, <hi>an aſſembly of evill do<g ref="char:EOLhyphen"/>ers.</hi> What <hi>adultery</hi> is to the Marriage-contract, that is Apoſtaſie to the Goſpel-covenant, and no adultery like to the adulterating of the truth and wo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhip of God.</p>
+                  <p>Now Apoſtaſie is a grievous provocation unto the Lord himſelf to depart from a people.<note place="margin">Noſ. 9.12.</note> 
+                     <hi>Woe unto them when I ſhall depart from them,</hi> (ſaith the Lord.) And when is that? When they depart from his truth and worſhip. And where the Lord <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oes, the ſervant goes after; If the <hi>Son of Peace</hi> abide not in the Citie,<note place="margin">Luke 10.6, 10.</note> the <hi>Embaſſadors of peace</hi> muſt depart, and their <hi>peace</hi> departs with them.</p>
+                  <p>In <hi>Heb.</hi> 10. v. 38. the Apoſtle brings in the Lord proteſting againſt Apoſtates, <hi>If any man draw back, my ſaule ſhall have no pleaſure in him.</hi> Draw back from what? The former words run thus, <hi>The juſt ſhall live by faith,</hi> and if any man draw back, that is, from faith, either from the doctrine of faith, or from the life of faith, from Goſpel <hi>Princi<g ref="char:EOLhyphen"/>ples,</hi> or Goſpel <hi>Converſation,</hi> my ſoule ſhall have no pleaſure in him: <hi>Non erit rectus in anima mea:</hi> He ſhall not ſtand right in my affection, I ſhall on no tearmes approve him: yea the words are a <hi>meioſis,</hi> there is much more implied then is expreſſed, My ſoule ſhall loath and abo<g ref="char:EOLhyphen"/>minate ſuch a perſon. I will not endure the ſight of him in the Con<g ref="char:EOLhyphen"/>gregation. And if this be the caſe of the Congregation, the Miniſter may well ſay,<note place="margin">Jerem. 8.5. Hoſea. 11.7.</note> 
+                     <hi>Lord, now letteſt thou thy ſervant depart in peace.</hi> But this muſt be underſtood of a people turned back by a <hi>perpetual rebellion</hi> and <hi>de induſtria,</hi> with an <hi>heart bent to back-ſliding,</hi> not through infirmity, but by a deſigne.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Provoca∣tion. </seg>4</label> The fourth provocation is <hi>Perſecution:</hi> And Apoſtates ſoon turne perſecuters, <hi>&amp; ſolus Apoſtata perſecutor;</hi> they uſually become the grea<g ref="char:EOLhyphen"/>teſt, becauſe they are loath to have that way to bee credited, from which they are revolted. <hi>Julian</hi> that was the moſt notorious <hi>Apo<g ref="char:EOLhyphen"/>ſtate,</hi> became the moſt bitter <hi>Perſecutor</hi> that ever lived in the Chriſtian Church.</p>
+                  <p>There are two ſorts of perſecution, which the red Dragon ſtirres up againſt godly Miniſters, <hi>Oris &amp; plagae, Iſhmaels</hi> and <hi>Eſaus</hi> perſe<g ref="char:EOLhyphen"/>cution, Tongue-perſecution, and Hand-perſecution. When men do
+<pb n="61" facs="tcp:93431:18"/>not onely give out <hi>hard ſpeeches,</hi>
+                     <note place="margin">Jude 15.</note> to reproach the Miniſter and his Do<g ref="char:EOLhyphen"/>ctrine, but doe ſeek out all advantages to intrap his perſon.</p>
+                  <p>Now the Lord had diſcovered unto <hi>Jeremy</hi> the treachery of his peo<g ref="char:EOLhyphen"/>ples hearts, though it were not come to blowes, chap. 11. v. 18.19. There is more danger of the wolf in the lambs skin, then in his own, and where danger is eminent, it is not onely ſafe, but neceſſary to a<g ref="char:EOLhyphen"/>void it. If the people receive not our <hi>teſtimony,</hi>
+                     <note place="margin">Acts 22.18. Matth. 10.23.</note> Chriſt would have us to <hi>depart;</hi> but if they <hi>perſecute</hi> us, Chriſt adviſes us to flye. And in perſonall perſecutions all agree with <hi>Auguſtine</hi> that it is lawfull to re<g ref="char:EOLhyphen"/>move, which in generall perſecutions they queſtion as unlaw<g ref="char:EOLhyphen"/>full.</p>
+                  <p>
+                     <hi>Athanaſius</hi> in his Apologie to the Emperour, on this ground juſti<g ref="char:EOLhyphen"/>fies his departure from <hi>Alexandria</hi> in the perſecution of <hi>Conſtantius,</hi>
+                     <note place="margin">1 Kings 18.4.</note> and in the perſecution of <hi>Jezabel,</hi> an hundred of the Lords Prophets were hid by <hi>Obadiah</hi> in a cave.</p>
+                  <p>You ſee now the provocations of the people, which may warrantize their <hi>Jeremies to depart from them,</hi> and to wiſh for retiring Cottages in the wilderneſſe. <hi>O that I had the Cottage of a wayfaring-man in the wil<g ref="char:EOLhyphen"/>derneſſe, that I might leave my people, and goe from them.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſes. </seg>
+                     </label> Two uſes onely I ſhall make of this poynt: the one of Examinati<g ref="char:EOLhyphen"/>on, the other of Exhortation.</p>
+                  <p>I would deſire our <hi>Engliſh Jeruſalem</hi> to examine herſelfe, whe<g ref="char:EOLhyphen"/>ther ſhe be not parallel to <hi>Jeremy's Jeruſalem</hi> in all theſe provocations; As,</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Whether there be not a generall inflexibleneſſe under the Mi<g ref="char:EOLhyphen"/>niſtery of the Word: yea, how doe the Miniſters of <hi>London propheſie in Sackcloth,</hi> under a great contempt and ſcorn of their Miniſtery.</p>
+                  <p>The Goſpel tels us of a Devil that was too ſtrong for the Apoſtles to caſt out: Every luſt is a Devil,<note place="margin">Matth. 17.16.</note> and how many ſuch Devils are there in the hearts of men, which are too ſtrong for Miniſters, too ſtrong for O dinances, too ſtrong for the Apoſtles themſelves, if they were alive. We may ſooner deſtroy our own lives then ſome mens luſts. They will cell you how many Miniſters they have out-lived, and their ſinnes are as long lived as themſelves.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. What unmercifulneſſe towards their Miniſters? The Devill was ſomewhat mercifull unto Chriſt, he would not have had him to ſtarve; he would have had him <hi>to turn ſtones into bread.</hi>
+                     <note place="margin">Matth. 4.3.</note> But ſome leſſe charitable would have their Miniſters to live upon ſtones in ſtead of bread.</p>
+                  <pb n="62" facs="tcp:93431:19"/>
+                  <p>It is ſtoried of <hi>Calvin</hi> in <hi>Geneva,</hi> becauſe he would not give the Sa<g ref="char:EOLhyphen"/>crament unto the people in ſuch a ſuperſtitious manner as they deſi<g ref="char:EOLhyphen"/>red, the people would give him no maintenance. For the very ſame cauſe would many <hi>Congregations</hi> in <hi>London</hi> either ſtorm or ſtarve their Miniſters, or bring them unto <hi>Luthers pittance,</hi> an <hi>Herring</hi> a day; and for their aged Miniſters, they deale with them, as men doe with their Horſes when they are worn out, they turn them into bare Com<g ref="char:EOLhyphen"/>mons.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. How is <hi>London</hi> turned back as the ſtreames of <hi>Jordan</hi> by an horrible back-ſliding? What a deſperate revolt from the ſolemne Covenant? What an execrable deniall of the ſacred Scriptures? Of the Faith of the Lord that bought them? How is the beautifull child of <hi>Reformation</hi> ſtifeled in the birth, and a monſter of ſhamefull <hi>Defor<g ref="char:EOLhyphen"/>mation</hi> brought forth in the room of it? <hi>O tempora! O mores!</hi>
+                  </p>
+                  <p>Time was when prayer and repentance were held up in the hands of faith, as precious meanes to maintain Communion with Jeſus Chriſt, and now men pray againſt their prayers, and repent of their repentings; becauſe ſome lay too much weight on duties, others have laid them wholy aſide.</p>
+                  <p>Time was when <hi>London zeale</hi> enkindled againſt every bracelet &amp; lace of the Scarlet Whore, and now as if the ſpirit of <hi>London</hi> were chan<g ref="char:EOLhyphen"/>ged into her ſpirit of fornications, we plead for a tolleration of all her ſorceries. That which once entre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as Iron into our ſoules, but to heare of, now it is accounted a ſinne to ſpeak againſt it.</p>
+                  <p>Time was when we did look on errors as the ſmoak of the bottom<g ref="char:EOLhyphen"/>leſſe pit, now they are admired as new lights dropt down from hea<g ref="char:EOLhyphen"/>ven. And he is accounted no body in their Meetings that hath not ſomething of them.</p>
+                  <p>Time was when the Lords day was a delight unto us: now it is queſtioned whether it be the Lords ordinance or mans.</p>
+                  <p>Time was when wee ſaw a beauty in their feet that brought the glad Tidings of Peace: Now Miniſters are a burthen in their places.</p>
+                  <p>Time was when we fled as Doves unto the holes of the Windowes, and now the wayes of Sion complain for want of paſſengers.</p>
+                  <p>Time was, but time will faile me if I ſhould goe on to ſhew what ſhamefull Apoſtaſies are amongſt us.</p>
+                  <p n="4">
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. How is <hi>Londons,</hi> how is <hi>Englands</hi> firſt love Apoſtatized into perſecutions!</p>
+                  <pb n="63" facs="tcp:93431:19"/>
+                  <p>May it not be ſaid of our times in <hi>England,</hi> as <hi>Bernard</hi> ſpake of his times, whoſe words are quoted by <hi>Hugo Cardinalis</hi> in his <hi>Poſtills</hi> on <hi>John; Good Jeſus</hi> (ſaith he) <hi>it ſeemeth the whole <g ref="char:V">Ʋ</g>niverſitie of Chriſti<g ref="char:EOLhyphen"/>an people have conſpired againſt thee, and theſe are chiefe perſecutors;</hi> even ſo the whole Univerſity of <hi>England</hi> ſeemes to conſpire againſt Jeſus Chriſt, and ſome which heretofore were great profeſſors, are now be<g ref="char:EOLhyphen"/>come bitter perſecutors.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. As for <hi>Iſhmaels</hi> perſecution, I think never was more againſt faith<g ref="char:EOLhyphen"/>full Miniſters, then now i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Men <hi>bend their tongues for lies,</hi> and the ſcorners chaire is every where ſet up againſt <hi>Moſes</hi> chaire; for the wholeſome words they have from us, wee have bitter words from them.</p>
+                  <p>
+                     <hi>Luther</hi> was charged for preaching againſt the Popedome, to be <hi>tuba rebellionis,</hi> a Trumpet of rebellion. And wee for preaching againſt as great a myſtery of iniquity, if not the ſame, to be Incendiaries of all the troubles that have been in <hi>England,</hi> and of this ſecond warre: If any thing goe amiſſe with the people, <hi>Aaron</hi> muſt be ſtoned.<note place="margin">Numb. 14.20.</note>
+                  </p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. As for <hi>Eſaus</hi> perſecution, rough hands wee finde every where. And though they fall not down right to blowes, yet there is malice and treachery enough in their hearts to provoke them. <hi>New-England</hi> they ſay, is too good a condition for theſe roundheaded Miniſters, and therefore they reſolve, if they can get the day to cut their throats in <hi>Old-England: Behold,</hi> ſaith God to <hi>Jeruſalem:</hi>
+                     <note place="margin">Jerem. 3.5.</note> 
+                     <hi>Thou haſt ſpoken and done as evill things as thou couldeſt.</hi> If thou couldſt have ſpoken or done worſe, thou wouldeſt.</p>
+                  <p>Wee need not (as <hi>Ezekiel</hi> in <hi>Jeruſalem</hi>) digge through the wall of this Citie, to ſee the bitterneſſe of ſome mens ſpirits, the <hi>iniquitie</hi> of their <hi>heels</hi> doth ſufficiently evidence the <hi>treachery</hi> of their <hi>hearts.</hi> They declare their ſinne as <hi>Sodom,</hi> and publiſh it as <hi>Abſolom</hi> in the face of all <hi>Iſrael,</hi> and in the ſight of this Sunne.</p>
+                  <p>Too ſadly hath the occaſion preſented you <hi>Jeruſalems</hi> paralell in <hi>London,</hi> and yet ſpare me one word farther; for, it would be <hi>Londons</hi> happineſſe if this day wee could be brought to give Glory to God in taking ſhame to our ſelves. And oh that <hi>London</hi> would take up righ<g ref="char:EOLhyphen"/>teous thoughts before God in judging their own condition, the King<g ref="char:EOLhyphen"/>dome you ſee, is all in bloud at this time, if wee would fetch bloud from our hearts, the Lord might be intreated to ſtop the iſſues of bloud that are running in the Land. <hi>Londons</hi> provocations are not onely paralel to <hi>Jeruſalems,</hi> but as <hi>Jeruſalem</hi> juſtified her younger ſiſter
+<pb n="64" facs="tcp:93431:20"/>
+                     <hi>Samaria,</hi> ſo hath <hi>London</hi> her elder ſiſter <hi>Jeruſalem.</hi>
+                  </p>
+                  <p>There are ſix circumſtances, wherein <hi>Judahs</hi> provocations exceed<g ref="char:EOLhyphen"/>ed <hi>Iſraels.</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Becauſe they were acted in a time of reformation. <hi>Iſrael</hi> ſinned under bad Kings,<note place="margin">Jerem. 1.1.</note> 
+                        <hi>Judah</hi> under good.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>Judah</hi> ſinned againſt all the examples of Judgement which God had given them by <hi>Iſrael.</hi>
+                        <note place="margin">Jere. 3.8.</note>
+                     </item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. <hi>Judah</hi> rebelled againſt thoſe ſpeciall warnings, which God ſent them by his Prophets.<note place="margin">Hoſ. 4.15.</note> 
+                        <hi>Though Iſrael play the harlot, yet let not Judah ſinne.</hi>
+                     </item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. <hi>Judah</hi> made more profeſſion, then backſliding <hi>Iſrael</hi> did, and the more wee appeare for God,<note place="margin">Jere. 3.4, 5.</note> the worſe wee are, if wee be not that indeed, which wee appeare to be.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. <hi>Judah</hi> enjoyed more and better ordinances, then <hi>Iſrael</hi> did; and the more means of Grace wee ſinne againſt,<note place="margin">2 Chron. 13.10, 11.</note> the more malice is in our ſinne.</item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. <hi>Judah</hi> had made a ſolemne Covenant unto God, in <hi>Joſias</hi> time, and ſinnes againſt Covenants,<note place="margin">2 Chren. 34.32.</note> are not onely apoſtaſies, but perjuries.</item>
+                  </list>
+                  <p>Now ſee if all theſe aggravations be not found in <hi>Londons</hi> provoca<g ref="char:EOLhyphen"/>tions.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Have wee not ſuch opportunities of reformation, as the Lord never betruſted <hi>England</hi> with the like, and will not our poſterities even curſe the loſſe of them, which our unnaturall diviſions have ſnatcht from us. Our fathers had a prize put into their hands, and they re<g ref="char:EOLhyphen"/>garded it not.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Have not others Judgements heightned <hi>Londons</hi> ſecurity, I mean not <hi>Iſraels</hi> and <hi>Judahs</hi> in ages paſt, but <hi>Germanies</hi> and <hi>Irelands, Kents,</hi> and <hi>Colcheſters</hi> preſent before us. When wee ſee an under-billet on fire, and the ſecond ſmoaking, will not the top be conſumed, if the fire be not quenched?</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Hath <hi>London</hi> wanted warnings, or Watchmen? Hath not the Lord Convened his faithfull Watchmen out of all the parts of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to warne <hi>London?</hi> Hath not the Lords voyce cryed unto the Ci<g ref="char:EOLhyphen"/>tie; <hi>Heare yee the Rod, and who hath appointed it?</hi>
+                     <note place="margin">Mich. 6.9.</note> Wee doe heare the Word, and dot not feele it, therefore wee ſhall feele the rod, and ſhall not heare it.</p>
+                  <p n="4">
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. Whoſe meanes, whoſe mercies have been like unto <hi>Londons?</hi> Oh <hi>London,</hi> I am ſorry for thy great accounts: may it not be ſaid of thee, as of <hi>Capernaum;</hi>
+                     <note place="margin">Luk. 10.15.</note> 
+                     <hi>And thou London which hast been lifted up to Heaven?</hi>
+                     <pb n="65" facs="tcp:93431:20"/>Certainly no citie hath been ſo high in Goſpel-priviledges as thou haſt been. The Lord grant that thy Goſpel-unkindneſſes doe not in<g ref="char:EOLhyphen"/>curre <hi>Capernaums</hi> curſe, no miſery ſo great as that which is provoked by the abuſe of Goſpel-mercy. Coales taken from between the Che<g ref="char:EOLhyphen"/>rubims, are coales of Juniper, the fierceſt diſcoveries of Gods fiery in<g ref="char:EOLhyphen"/>dignation.</p>
+                  <p n="5">
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> 5. Hath not <hi>London</hi> been eminent in profeſſion above all the parts of the Kingdome? Yea, are not <hi>Londons</hi> revolts even now vailed under profeſſion? Is not truth almoſt baniſhed under pretence of truth? And Religion diſgraced under ſhew of Religion?<note place="margin">Compare Ezek. 10.2. with 11.7. Zech. 13.6.</note> 
+                     <hi>Thus have I been wounded,</hi> ſaith Chriſt, <hi>in the houſe of my friends.</hi>
+                  </p>
+                  <p>Turkes and Infidels ſinne ſingly, they profeſſe themſelves Chriſts enemies, and they are ſo, but this is, <hi>Duplex, multiplex iniquitas,</hi> a com<g ref="char:EOLhyphen"/>plicated compound of iniquity. <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. To injure the Lord Jeſus, who ſeeks our eternall welfare. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. To doe it under ſhew of friendſhip. <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Againſt knowledge, and againſt ſome ſenſe of love, for both theſe muſt be in profeſſion.</p>
+                  <p n="6">
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> 6. Did <hi>London,</hi> did <hi>England,</hi> did two Nations ever enter into ſuch ſolemne Covenants? as have been lately not onely publiſhed in our Cities, but hung up in our Churches as inviolable records of our in<g ref="char:EOLhyphen"/>gagements, and as ſtanding Witneſſes againſt our revolts? And hath not <hi>London,</hi> hath not <hi>England?</hi> have not the two Nations ſinned, not onely againſt, but with their Covenants? Serving our luſts, and not our God by them?</p>
+                  <p>The Greeke word, that ſignifies Oath or Covenant,<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> ab <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> includo unde, <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> ſeptum vel ab <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> terminus.</note> is derived from a word which ſignifies alſo an hedge or bound; and we have not one<g ref="char:EOLhyphen"/>ly broken our hedge, our bound, but even laid it flat to the ground, whereby Gods wrath breaks in every where upon us, and he is in<g ref="char:EOLhyphen"/>forced to unſheath his ſword againe: The <hi>avenger</hi> of his <hi>Covenant.</hi>
+                  </p>
+                  <p>And now let <hi>London</hi> lay all theſe provocations and aggravations together, and ſee if there be not cauſe enough, for their <hi>Jeremies</hi> to wiſh for cottages in the wilderneſſe, that they might leave their people and goe from them? Yea, will <hi>London</hi> be entreated to ſee, how many faithfull <hi>Jeremy's</hi> have been provoked already to leave the Citie? who are now retired into their cottages to pray for thoſe to whom their preaching could doe no good? And as <hi>Solon</hi> when <hi>Athens</hi> was taken by <hi>Piſiſtratus</hi> hung up his Speare and Target at the Citie-gates, with this Proteſtation; <hi>Oh Athens, I have ayded thee both in word and deed;</hi> ſo may thoſe faithfull Miniſters ſay that have left you; Oh <hi>London,</hi>
+                     <pb n="66" facs="tcp:93431:21"/>wee have done what wee could to warne thee of thy ſinnes, and of thoſe judgements which are like to follow them.</p>
+                  <p>Shall I have leave to tell you of above fortie Churches in this Citie, that are, or were lately empty, and many more from which godly, grave, and Orthodoxe Miniſters have been forced to remove, through want of maintenance, or through other diſcouragements?</p>
+                  <p>I would lay before you, but one motive to quicken the bitter ſenſe of this; Even the miſchievous conſequence of it. And I will give it you in a Scripture inſtance. You ſhall reade in the 2 of <hi>Chronicles</hi> the 28. ver. 24. That in <hi>Ahaz</hi> time in <hi>Jeruſalem</hi> [which is <hi>Londons</hi> paralel] <hi>the doores of the Lords houſe were ſhut, and Altars ſet up in every corner of the Citie;</hi> And what followed? Why, groſſe apoſtafie in the people, and ſhortly after utter deſolation of the Citie. Surely there is no <hi>Omen</hi> ſo ſad of <hi>Londons</hi> haſtning miſery, as their unkinde provocations of the departure of their godly Miniſtry.</p>
+                  <p>I need not tell you what followed <hi>Noahs</hi> entring into the Arke, or <hi>Lots</hi> departure out of <hi>Sodom,</hi> or what the Proteſtants in Queen <hi>Ma<g ref="char:EOLhyphen"/>ry's</hi> dayes acknowledged, that thoſe <hi>Marian</hi>-dayes were the juſt iſſues of their diſdaine of godly Miniſters in King <hi>Edwards</hi> dayes, but this remember, that the <hi>duſt</hi> of your Miniſters departure ſhall riſe up as a <hi>teſtimony</hi> againſt you, and where Chriſts <hi>Ambaſſadours</hi> of peace are for<g ref="char:EOLhyphen"/>ced to depart,<note place="margin">Compare Ezek. 9.3. with 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.9.</note> their <hi>peace</hi> departs with them. The glory of God did not long ſtay on the Citie, when once it was departed from the San<g ref="char:EOLhyphen"/>ctuary: If the candles are put out, the ſhops are all ſhut up; Interpres what that means <hi>Iſa.</hi> 9.19. If the Land be darkened, (and tis darkned with a witneſſe when the Sun of righteouſneſſe withdraws his Goſpel light) the people ſhall ſhortly be for fuell to the fire of Gods wrath.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Ʋſe </seg>2</label> I have yet a word of Counſell to leave behinde mee, before I goe unto my cottage.</p>
+                  <p>And firſt unto my brother <hi>Jeremy,</hi> who deſires a cottage in the wil<g ref="char:EOLhyphen"/>derneſſe: I would deſire him heedfully to write after his Copie here, to ſee that he hath lawfull ends, and warrantable grounds to leave his people. I need not repeat <hi>Jeremy's</hi> ends, or his peoples provocations againe.</p>
+                  <p>Two things onely I have in advice from <hi>Jeremy</hi> in <hi>Jeruſalem,</hi> to <hi>Jere<g ref="char:EOLhyphen"/>remy</hi> in <hi>England;</hi> which I noted in the analyſis of the Text.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. That he leave not his people without <hi>leave</hi> from <hi>God.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Nor 2. Without <hi>love</hi> to <hi>them.</hi>
+                  </p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Not without leave from God. <hi>Jeremy</hi> doth not let fall theſe
+<pb n="67" facs="tcp:93431:21"/>words at Randum, or in paſſion, but in dolour of his ſpirit, as elſe<g ref="char:EOLhyphen"/>where he ſayes, he commends his way unto God;<note place="margin">Jerem. 20.12.</note> 
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nto thee, O Lord, have I opened my cauſe.</hi> If all mens wayes are in Gods diſpoſe, his Mini<g ref="char:EOLhyphen"/>ſters are all wayes. Sometime <hi>Paul</hi> is ordered to ſtay at <hi>Corinth,</hi> when he is willing to remove. Sometime to remove from <hi>Jeruſalem,</hi> when he is willing to ſtay, alwayes he waites upon the Lords call, to direct all his wayes.</p>
+                  <p>
+                     <hi>Non omnes poſſumus eſſe Caeſares,</hi> wee cannot all be Aſſembly men. Some muſt be Country-men, all cannot live in the Cities; ſome muſt goe abroad into the Villages. All are not appointed to great places, ſome unto ſmall; ſome have their pallaces, others their cottages; Whereſoever our lot ſhall fall, wee muſt ſee that we have a divine call to warrant our way, and then if wee have little, wee muſt be conten<g ref="char:EOLhyphen"/>ted; becauſe it is our portion: If wee have more, wee muſt be more thankfull, becauſe it is above our deſervings. Whether wee have more or leſſe, we muſt be both contented and thankfull: Becauſe it is Gods will. Let our lot fall unto us in a faire ground or a foule, wee muſt both contentedly and thankfully ſubmit our way unto Gods diſpoſe; onely for more peace and comfort, and for better ſucceſſe of his Mini<g ref="char:EOLhyphen"/>ſtry, is <hi>Jeremy's</hi> deſire. <hi>O that I had the cottage of a wayfaring-man in the Wilderneſſe, that I might leave my people, and goe from them.</hi>
+                  </p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. As <hi>Jeremy</hi> would not leave his people without leave from God, ſo not without love to them, although he could receive no love from them; for though he did leave them, yet he will not leave to pray for them, and to pray in teares, and teares in abundance, and that abun<g ref="char:EOLhyphen"/>dance not yet enough to expreſſe his love; but he wiſhes for more in the verſe before my Text; <hi>O that my head were waters, and mine eyes a fountain of teares, that I might weep day &amp; night for the ſlaine of the daugh<g ref="char:EOLhyphen"/>ter of my people.</hi>
+                  </p>
+                  <p>Miniſters may preach plauſibly, but with <hi>Jeremy</hi> to mourn in <hi>ſearet</hi> is the tryall of their ſincerity. And for ſuch a people as <hi>Jeremy</hi> had is a tryall indeed.<note place="margin">2 Cor. 12.15.</note> 
+                     <hi>Paul</hi> ſpends and is ſpent (both in praying and in preaching) though the more he loves, the leſſe he is beloved. How of<g ref="char:EOLhyphen"/>ten doe wee finde <hi>Moſes</hi> on his face for the people of <hi>Iſrael,</hi> when they by murmuring and mutuning did ſpit in his face. <hi>Stephen</hi> wee ſee on his knees for his perſecutors, pouring out his prayers and life toge<g ref="char:EOLhyphen"/>ther.</p>
+                  <p>
+                     <hi>Can you drinke of the Cup that I ſhall drink of</hi> (ſaith our Saviour?) <hi>Wee can.</hi> But can you pray alſo for thoſe that make you drink of it?
+<pb n="68" facs="tcp:93431:22"/>This wee hardly can, yet this wee muſt, if wee will be <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Diſciples indeed.<note place="margin">John 8.31.</note> Wee muſt pray for thoſe that perſecute us: <hi>Father forgive them, for they know not what they doe.</hi>
+                  </p>
+                  <p>Pray (you ſay) But how? Why</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. With an intenſe retiredneſſe, ſetting your ſelves to prayer, mak<g ref="char:EOLhyphen"/>ing it your buſineſſe to pray withovt ceaſing, as the Church for <hi>Peter, Act.</hi> 12. And as <hi>Samuel</hi> for <hi>Iſrael, God forbid that I ſhould ceaſe praying.</hi>
+                  </p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. With an intimate compaſſionateneſſe, emptying your ſelves in prayer, through a quicke and active ſenſe of the peoples dangers. <hi>My leanneſſe, my leanneſſe, wee is me.</hi>
+                  </p>
+                  <p>Theſe two intimations wee have from thoſe two holy advantages which <hi>Jeremy</hi> aymed at in his cottage in the wilderneſſe.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> The firſt was an holy retiredneſſe unto prayers and teares, for <hi>ver.</hi> 1. <hi>he wiſhes his eyes a fountain of teares;</hi> and in the Text he wiſhes for ſome ſolitary place to powre them out in. It is not enough to pray, but we ſhould pray in teares, and to pray in teares, we ſhould retire our ſelves to it as to our worke.</p>
+                  <p>Could I here reach my brethren in their Cottages, I would be<g ref="char:EOLhyphen"/>ſpeake from them this holy improvement of their retiredneſſe, to pray for thoſe whom they have left, thoſe that are at eaſe in <hi>Sion,</hi> that drink their wine in bowles, and forget <hi>Joſeph</hi> in the ſtocks. It is an happy leaſure wherein wee are ſet on work for God, and a bleſſed ſe<g ref="char:EOLhyphen"/>queſtration from the world, by which wee have more commerce with Heaven.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>Jeremy</hi> foreſeeing <hi>Jeruſalems</hi> miſery, wiſhes himſelfe in the wil<g ref="char:EOLhyphen"/>derneſſe that he might not ſee it; as good old <hi>Cato,</hi> hearing of <hi>Romes</hi> overthrow, being blinde and uncapable to ſee it, wiſhed himſelfe deaſe too, that he might not have heard it.</p>
+                  <p>The miſeries of unkinde people as they are better diſcerned, ſo they are more pittied by good Miniſters, then by themſelves. The Phyſi<g ref="char:EOLhyphen"/>tian ſees more into the danger of the patient, then the patient him<g ref="char:EOLhyphen"/>ſelfe doth, and when the patient deſires ſuch things as would kill him, the Phyſitian ſtudies all meanes to cure him. The watchmen on the walls, ſee further then thoſe in the Citie, and though the people doe reſt ſecure in their ſinnes, yet they that watch for their ſoules will not ſuffer God to be at reſt for them. <hi>Moſes</hi> is contending with God for <hi>Iſraels</hi> ſafety, when <hi>Iſrael</hi> was dancing before their Idoll, ſenſleſſe both of their finne and judgement approaching.</p>
+                  <p>My Brethren, I will onely ſay of <hi>Jeremy,</hi> as <hi>Paul</hi> of <hi>Abel,</hi> being dead
+<pb n="69" facs="tcp:93431:22"/>yet ſpeaketh, and beſpeaketh from you, your deareſt affections, and tendereſt bowels for the people of God.</p>
+                  <p>
+                     <hi>O that my head were waters, and mine eyes a fountaine of teares, that I might weep day and night, for the ſlaine of the daughter of my people.</hi>
+                  </p>
+                  <p>And that I might ſet my ſelfe cloſe to this worke, and might not ſee the calamity of my people which I doe foreſee.</p>
+                  <p>
+                     <hi>O that I had the cottage of a wayſaring-man in the Wilderneſſe, that I might leave my people, and goe from them.</hi>
+                  </p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. My counſels now to <hi>London,</hi> I ſhall diſpatch; And foure counſels I deſire to leave with you. And O that the Lord God of Heaven, the omnipotent arme of divine grace would effectually ſet them home this day upon every one of your hearts, and for Chriſt his ſake I beſeech you, for your ſoules ſake, for the ſafety of this famous Citie, of the whole Kingdome, yea of three bleeding dying Kingdomes, I beſeech you, let my counſels be acceptable unto you, if yet the Lord may be entreated to continue the glory of his Ordinances among you, and to prevent thoſe judgements which ſeeme to be threatned.</p>
+                  <p n="1">
+                     <label type="milestone">
+                        <seg type="milestoneunit">Counſell. </seg>1</label> 1. Keep cloſe unto your holy Covenant, wherein you have moſt ſolemnly engaged your ſelves to the moſt high God, for the encou<g ref="char:EOLhyphen"/>ragement of pious Miniſters, for the advancement of the power of godlineſſe, and purity of worſhip, for the purging out of ſuperſtition, hereſie, and prophaneneſſe, and that yee will all endeavour to goe one before the other in the example of a reall reformation.</p>
+                  <p>When our enemies were mighty, our dangers threatning, and our helpes ſmall, how big were our promiſes? our proteſtations? our de<g ref="char:EOLhyphen"/>clarations for God, and for his Chriſt? But as <hi>Eliſha</hi> parlied with his ſervant concerning that good Shunamite; <hi>Shee hath been carefull for us,</hi>
+                     <note place="margin">2 Kings 4.13, 14.</note> 
+                     <hi>but what have wee done for her?</hi> even ſo, ſhould wee put the ſame que<g ref="char:EOLhyphen"/>ſtion to our hearts concerning God [as it is very fit wee all ſhould] what accounts could our ſouls give herein? That God hath been care<g ref="char:EOLhyphen"/>full for us in the day of our diſtreſſe, will be, muſt be, confeſſed. But what have wee done for him, of all that wee have covenanted unto him?</p>
+                  <p>It is very ſad to ſee how that ſolemne ſacred thing is of late made like a picture with divers faces to look according to every mans hu<g ref="char:EOLhyphen"/>mour and luſt that looks upon it. And on both ſides it is uſed, or ra<g ref="char:EOLhyphen"/>ther abuſed as a ſtalking horſe by thoſe who under pretence of love unto it, doe practiſe the manifeſt violation of it.</p>
+                  <pb n="70" facs="tcp:93431:23"/>
+                  <p>
+                     <hi>Chryſoſtome</hi> was wont to ſay, that it was not onely the duty but the character of him that was, or would be godly, to be the ſame in the day of his health and proſperity, which he did promiſe to be in the day of his diſtreſſe and calamity. Surely our God is the ſame to us, our ſinnes may change his providences, but our eſtates cannot change his love. He is to us a Covenant-keeping God, and exſpects that wee ſhould be to him, not onely a Covenant-making, but a Covenant-keeping people.</p>
+                  <p>My good friends, let us not befoole our ſelves, (for ſo wee doe ſaid one of the wiſeſt among the ſonnes of men) if we think that God will accept <hi>promiſes</hi> without <hi>payments,</hi>
+                     <note place="margin">Eccleſ. 5.4.</note> Eccleſ. 5.4. The Preachers counſell is weighty in the 6. <hi>ver.</hi> of the ſame Chapter. <hi>Suffer not thy mouth to cauſe thy fleſh to ſinne, neither ſay thou before the Angel it was an error, Wherefore ſhould God be angry at thy voyce? and deſtroy the workes of thy hands?</hi>
+                  </p>
+                  <p>There is no ſinne that wee reade of in holy Writ, againſt which di<g ref="char:EOLhyphen"/>vine anger hath more terribly threatned, or more ſeverely executed, then againſt the ſinne of Covenant-breaking. I could lay before you the three-yeares-waſting famine of <hi>Judea</hi> for <hi>Sauls</hi> breach of Cove<g ref="char:EOLhyphen"/>nant with the <hi>Gibeonites,</hi> although but a civill Covenant, and made for many yeares before.<note place="margin">2 Sam. 21. Joſh. 9.15. Compare Jere. 52.3.13. Ezek. 17.13.19.</note> As alſo the ruthfull deſolations of <hi>Jeruſalem</hi> for <hi>Zedekiabs</hi> treachery in breaking Covenant with the King of <hi>Baby<g ref="char:EOLhyphen"/>lon.</hi> But I ſhall onely deſire you to reade over and conſider well that paſſage in <hi>Jere.</hi> 34. from the 15. <hi>ver.</hi> to the 21. In <hi>ver.</hi> the 15. the Lord commends the Princes, and the people, that they had entred into the Covenant: <hi>You have done that which was right in my ſight</hi> (ſaith God) <hi>in making a Covenant with mee, in the houſe that is called by my Name.</hi> But <hi>ver.</hi> 16. he charges them with the diſhoneſt breach of it, <hi>But yee have turned and polluted my holy Name.</hi> See, my Brethren, Covenant-breaking is a polluting of that ſacred dreadfull Name, which is moſt ſolemnly invocated and atteſted in Covenant-making. But how had they broken Covenant? Why, they proclaimed liberty for Gods peo<g ref="char:EOLhyphen"/>ple, and had done nothing towards it; therefore ſayes God <hi>ver.</hi> 17. <hi>I will alſo proclaime a liberty for you, even a liberty to the ſword, to the peſti<g ref="char:EOLhyphen"/>lence, and to the famine, and I will make you to be removed into all the King<g ref="char:EOLhyphen"/>domes of the earth:</hi> and <hi>ver.</hi> 20. <hi>I will even give them into the hand of their enemies, and into the hand of them that ſeek their life, and their dead be<g ref="char:EOLhyphen"/>dies ſhall be for meat unto the fowles of the Heaven, and to the beaſts of the earth.</hi> And that you may take ſpeciall notice who they are, that are
+<pb n="71" facs="tcp:93431:23"/>the marks of this direfull wrath, the Spirit of God doth notably point them out unto you, <hi>ver.</hi> 18. <hi>They are the men that have tranſgreſſed my Covenant, which have not performed the words of the Covenant which they made before me, when they did cut the Calfe in twaine, and paſſed between the parts thereof.</hi> This was a ceremony uſed amongſt the <hi>Jewes</hi> in ma<g ref="char:EOLhyphen"/>ing Covenants, wherein they did tacitly imprecate the holy God, even ſo to cut them in pieces who did breake the Covenant, as they did cut the Calfe, and as they did paſſe between the divided pieces, ſo the Lord to cauſe his fiery indignation, to paſſe between them who di<g ref="char:EOLhyphen"/>vided one from the other in the bond of the holy Covenant.</p>
+                  <p>And now my Brethren, if the moſt juſt God be ſo extreamly ſevere in breach of Covenants between man and man, how think you will he make his jealouſie to ſmoake againſt thoſe that break Covenant with himſelfe in thoſe things which doe moſt neerly concern his worſhip, and the glory of his Name.</p>
+                  <p>Methinks I could ſpend in this ſubject as much more time as I have already ſpent, and need indeed requires it, but that I muſt haſten. I will onely bring hither thoſe words which our Saviour in another ſenſe uſeth;<note place="margin">Mat. 24.18.</note> 
+                     <hi>Let him which is in the field not turne backe to take up his cloaths;</hi> ſo ſay I to him that is in the Citie, if you were to looſe your cloaths from your backs, doe not turne backe from the holy Cove<g ref="char:EOLhyphen"/>nant.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Counſell. </seg>2</label> My ſecond Counſell is this; Take heed of apoſtatizing from any knowne experimentall truths of Jeſus Chriſt, this enters as iron into the ſoules of your godly Miniſters to ſee thoſe whom they have look<g ref="char:EOLhyphen"/>ed upon as their ſpirituall ſeed, and travaile of their ſoules, to recede from that <hi>forme of wholeſome words they had received,</hi> to ſee them ſuck <hi>the bloud of Dragons,</hi> whom they had ſo carefully nurſed up at <hi>the breaſts of conſolation,</hi> and to have their affections ſtolen away from them, and from Jeſus Chriſt too, by thoſe, who never ſpent a breath towards their ſpirituall birth.</p>
+                  <p>And as there cannot be a greater heart-breaking unto Miniſters, ſo neither can Religion receive a deeper wound any way then by the A<g ref="char:EOLhyphen"/>poſtaſie of profeſſors, wee are an hiſſing, not onely to <hi>Gath</hi> and <hi>Aſke<g ref="char:EOLhyphen"/>lon,</hi> to the proud ſcoffing world, but even to <hi>Judah</hi> and <hi>Ephraim,</hi> to all the reformed Churches of Chriſtendome, to ſee how deeply, how ſuddenly <hi>London, England,</hi> have corrupted themſelves.</p>
+                  <p>In the beginning of this Parliament wee admired to ſee how <hi>Eng<g ref="char:EOLhyphen"/>land</hi> was turned Arminian, and how neere it was got of a ſudden un<g ref="char:EOLhyphen"/>to
+<pb n="72" facs="tcp:93431:24"/>to <hi>Rome,</hi> wee have now more cauſe to wonder, how <hi>Rome</hi> is come into <hi>England,</hi> and how <hi>England</hi> is turned Libertine, Pelagian, Socinian, Antinomian, Antiſcriptarian, Antitrinitarian; yea it hath had ſo ma<g ref="char:EOLhyphen"/>ny turnings, as that turning unto Chriſt by repentance and humilia<g ref="char:EOLhyphen"/>tion, is now turned out of doores, and throwne aſide as an old dotage of legall ſervitude, wee know not whether the tyranny of Biſhops, or treachery of ſeducers, have done <hi>London, England,</hi> moſt hurt: for the one kept from us <hi>the power of godlineſſe,</hi> the other hath beguiled us even of <hi>the forme of it.</hi>
+                  </p>
+                  <p>Shall I tell you (and with reverence I would) that our apoſtaſie from God, hath cauſed God even to apoſtatize from us. I ſpeake in the ſame ſenſe, as God ſpeaks of himſelfe that <hi>he repents</hi> and <hi>is ſorry</hi> for what he hath done. God was in a very faire way to have refor<g ref="char:EOLhyphen"/>med <hi>England,</hi> he had caſt us in, as rich advantages, as ever any Na<g ref="char:EOLhyphen"/>tion or age was betruſted with. He had awaked the zeale of all his faithfull ones in three Kingdomes; he had contributed the counſells of divers reformed Churches; he had broken the ſtrength of all op<g ref="char:EOLhyphen"/>poſers, and becauſe wee have apoſtatized from our former zeale, God hath alſo turned back from his; Divine Juſtice holds proportion with our ſin, becauſe we have ſaid, the time of reformation is not yet come; God hath ſtept aſide from us, and ſaid, well, if you let goe this, you ſhall never have ſuch a time more.</p>
+                  <p>Thoſe that obſerve the Story of the Eaſtern Churches, doe alledge this as the great provocation of Gods wrath to bring upon them the blaſphemous doctrine of <hi>Mahomet,</hi> becauſe they rejected the whole<g ref="char:EOLhyphen"/>ſome truths of the Goſpel. When once we begin to nauſeate at old truths, and (as flies about a Candle) to play about new lights, it is a thouſand to one but wee ſinge our wings, if wee burne not our ſelves, before we get off.</p>
+                  <p>The leaſt backſliding is in attendancy to totall and finall apoſtafie, and when wee once look back, wee have no more power to turne a<g ref="char:EOLhyphen"/>bout againe, then <hi>Lots</hi> wife, who was inſtantly made a monument of her own revolt.</p>
+                  <p>I will cloſe this with that of the Apoſtle,<note place="margin">Hebr. 10.25.</note> 
+                     <hi>Heb.</hi> 3.12. <hi>Take heed bre<g ref="char:EOLhyphen"/>thren, leaſt there be in any of you an evill heart of unbeliefe, to depart from the living God:</hi> This evill heart reignes in ſome, dwells in the beſt, it is the mother of all ſinne, but apoſtafie is its primogenite, this begins in contempt of Ordinances; for ſuch is the departing here, <hi>a forſaking of the holy Aſſemblies,</hi> as elſewhere the Apoſtle doth interpret himſelfe,
+<pb n="73" facs="tcp:93431:24"/>and this he calls <hi>a departing from the living God,</hi> becauſe God in every Ordinance might be enjoyed where there is faith to bring him home: now this God lives to take vengeance on all thoſe that depart from him, therefore take heed how yee provoke this living God, by deſpi<g ref="char:EOLhyphen"/>ſing his Ordinances, and diſcouraging his Miniſters, and ſo departing from him in the law of his Goſpel-worſhip. This is the ſecond Coun<g ref="char:EOLhyphen"/>ſell.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Counſell. </seg>3</label> My third Counſell is that of the 32. Canon of the Councell of <hi>Towers: Let all men ſtudy peace, but eſpecially Chriſtians.</hi> Chriſtians if there be any thing of Chriſts Spirit in you, lay aſide that gall and wormwood, that bitterneſſe of ſpirit and heat of contentions that is in the midſt of you. Whatſoever differences there are between you in things diſputable, yet let unity be preſerved in things fundamentall; nothing makes your Miniſters lives more uncomfortable amongſt you, or their Miniſtry more ineffectuall, nothing ſo much diſgraces Reli<g ref="char:EOLhyphen"/>gion, or obſtructs the beautifull birth of reformation, then the unhap<g ref="char:EOLhyphen"/>pie diſcords of thoſe who are accounted godly in your Congrega<g ref="char:EOLhyphen"/>tions.</p>
+                  <p>I doe not plead for <hi>Baal,</hi> that there ſhould be any agreement with <hi>Rome</hi> in thoſe ſuperſtitious Ceremonies or corrupt doctrines which are happily exploded our Aſſemblies. No; ſuch compliance would prove <hi>Englands</hi> undoing: as our Eccleſiaſticall Hiſtory well obſerves, That, that <hi>Bulla conſenſus,</hi> agreement which the Greek Church made with the Church of <hi>Rome</hi> in their opinions, was an evill preſage of the utter ruine of the Orientall Empire, and of that famous Citie of <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> which immediately followed thereupon: But as it is repor<g ref="char:EOLhyphen"/>ted of <hi>Polycarpus</hi> and <hi>Amicetus,</hi> howſoever they differed in their opini<g ref="char:EOLhyphen"/>ons about ſome things, and could not be reconciled, yet they kept faſt the bond of Chriſtian fellowſhip in the faith of Jeſus. Even ſo (my Brethren) let us as many as love <hi>Jeruſalems</hi> peace lay aſide our diffe<g ref="char:EOLhyphen"/>rences in ſmaller matters, and ſtudy how to preſerve our unity in the maine; <hi>Follow after the things which make for peace, and things wherewith one may edifie another.</hi> Rom. 14.19. <hi>Let us therefore follow ſaith the A<g ref="char:EOLhyphen"/>poſtle;</hi> he had laid the foundation of his exhortation in two argu<g ref="char:EOLhyphen"/>ments foregoing.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. That ſound Religion conſiſts not in diſputable Queſtions, but in Goſpel-fruits.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. That the edifying and not the diſputing Chriſtian, is he that is acceptable to God, and approved of men, <hi>ver.</hi> 17, 18.</p>
+                  <pb n="74" facs="tcp:93431:25"/>
+                  <p>It is ſaid of <hi>Baſil</hi> the great, that in thoſe differences between <hi>Euſe<g ref="char:EOLhyphen"/>bius</hi> and him, he overcame him by courteſie, and humanitie. O that wee alſo could ſtrive in love and humility, to goe one before the other, and to overcome our differences, not by bitter diſputes, but by an humble condeſcenſion. Methinks wee ſhould not own our ſelves to be Chriſts Diſciples, and to have learned nothing of that prime leſſon of his,<note place="margin">Matth. 11.29.</note> wherein he gives us both his counſell and example; <hi>Learne of me, for I am meeke and lowly in heart.</hi>
+                  </p>
+                  <p>As long as the profeſſors of the true faith in <hi>Conſtantinople</hi> (how<g ref="char:EOLhyphen"/>ſoever differing in points of Diſcipline) held love and fellowſhip toge<g ref="char:EOLhyphen"/>ther in ſubſtantials of doctrine and worſhip, ſo long they became a fence unto their Citie againſt the publique enemy: But when once they brake aſunder in unkindly diviſions, and ſhortly after loſt both truth and worſhip, both parties became a ſpoyle to thoſe that hated them.</p>
+                  <p>The like unhappy Story wee finde of <hi>Jeruſalem,</hi> when thoſe two Chriſtian Governours <hi>Guido</hi> and <hi>Raimundo,</hi> with their parties con<g ref="char:EOLhyphen"/>tended amongſt themſelves, they gave occaſion to the common adver<g ref="char:EOLhyphen"/>ſary to come in, and take from them both, not onely the Citie, but the Goſpel to boote. I beleeve you doe not forget what lately I delivered unto you upon another ſubject, That there is a generation of <hi>Canaa<g ref="char:EOLhyphen"/>nites</hi> and <hi>Perezites</hi> amongſt us, that doe wait for the opportunity of <hi>Abrams</hi> and <hi>Lots</hi> diviſions, to break in upon us, and to ſpoile us of all our Goſpels priviledges and liberties. Methinks if any thing would prevaile with us, nothing ſhould more inforce us to agreement then this miſchiefe which is like to follow our diſagreement; we ſhall both ſides become a prey to thoſe that maligne us.</p>
+                  <p>I will here onely leave with you thoſe three teſtamentall leſſons which <hi>Bernard</hi> left at his death with thoſe that were about him.</p>
+                  <p n="1">
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. That they ſhould offend no man.</p>
+                  <p n="2">
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. That they ſhould give leſſe credit to their own opinion.</p>
+                  <p n="3">
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. That they ſhould not be vindictive, nor deſirous of revenge for wrongs done unto themſelves. O that I had the penne of a Diamond to engrave theſe leſſons upon your hearts. The neceſſitie of theſe times doth lowdly beſpeake them of us.</p>
+                  <p>I have yet one Counſell more, and I have done.</p>
+                  <p>Love,<note place="margin">
+                        <hi>4</hi> Counſell.</note> and cheriſh, and maintaine, your godly Miniſters ſtill, though they are Starres in Chriſts right hand, yet they are Lamps in yours, and muſt have oyle from you to give light unto you. If you <hi>diſgrace</hi>
+                     <pb n="75" facs="tcp:93431:26"/>the <hi>Throne</hi> of Chriſts Glory in a way of <hi>looſeneſſe,</hi> Chriſt will diſgrace it in a way of <hi>Juſtice.</hi> If you ſay in the pride of your hearts,<note place="margin">Jerem. 14.21.</note> as thoſe wretched Citizens in the Goſpel,<note place="margin">Luk. 19.14.</note> 
+                     <hi>Wee will not have this man to rule over us,</hi> take heed leaſt the Lord Chriſt take you at your words, as he did thoſe <hi>Jewes,</hi> who cryed out, <hi>His bloud be upon us, and upon our children.</hi>
+                     <note place="margin">Mat. 27.25.</note> And his bloud is upon them, and upon their children to this day. If you ſay in ſcorne, Wee will not have that Government you call Chriſts, Chriſt may ſay in vengeance, Well, you ſhall not: my Mini<g ref="char:EOLhyphen"/>ſters ſhall no longer trouble you, mine Ordinances ſhall be no longer a burthen unto you,<note place="margin">Mat. 21.43.</note> I will take care to remove my <hi>Kingdome</hi> from you, and to beſtow it upon a people that may better prize it, and im<g ref="char:EOLhyphen"/>prove it.</p>
+                  <p>
+                     <hi>Cambden</hi> could not reach his conceit, who boare in his Shield a <hi>Sa<g ref="char:EOLhyphen"/>vage</hi> of <hi>America,</hi> with his hand pointing to the Sunne, and this Motto; <hi>Mibi acceſſu, tibi receſſu,</hi> In acceſſe to mee, in receſſe to thee. I know not whether I may hit his conceit, but this I am ſure, the <hi>Sunne of righteouſneſſe</hi> hath appeared unto thoſe <hi>Savages</hi> of <hi>America, with heal<g ref="char:EOLhyphen"/>ling in his wings,</hi> they are many of them brought unto civilitie, hope<g ref="char:EOLhyphen"/>full to Chriſtianitie.</p>
+                  <p>I pray God that Prophecy in <hi>Iſa.</hi> 32. <hi>ver.</hi> 15. Be not fulfilled be<g ref="char:EOLhyphen"/>tween them and us: <hi>The wilderneſſe ſhall become a fruitfull field, and the fruitfull field ſhall be counted as a forrest.</hi> It hath been once fulfilled be<g ref="char:EOLhyphen"/>tween the <hi>Jewes</hi> and us that were Gentiles; may it never be againe ac<g ref="char:EOLhyphen"/>compliſhed between the Gentiles and us that are Chriſtians, That their wilderneſſe ſhould become a fruitfull field, and our fruitfull field ſhould be counted as a forreſt.</p>
+                  <p>I have done; <hi>England</hi> of all parts of the Chriſtian world, and <hi>London</hi> of all parts of <hi>England,</hi> have been famous for their reverence and bounty unto their Miniſters; Shall I ſay, <hi>How is the faithfull Ci<g ref="char:EOLhyphen"/>tie,</hi>
+                     <note place="margin">Iſa. 1.21.</note> the faithfull Kingdome, <hi>become an Harlot;</hi> rather I would ſay, and I have ſaid all, Let <hi>England,</hi> let <hi>London remember their firſt love,</hi>
+                     <note place="margin">Revel. 2.5.</note> 
+                     <hi>and doe their firſt works.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
